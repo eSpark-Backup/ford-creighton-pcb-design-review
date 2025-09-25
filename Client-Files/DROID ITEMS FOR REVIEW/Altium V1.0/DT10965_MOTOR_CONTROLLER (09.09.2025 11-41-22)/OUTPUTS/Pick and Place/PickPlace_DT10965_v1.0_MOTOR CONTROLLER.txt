@@ -1,0 +1,630 @@
+Altium Designer Pick and Place Locations
+D:\DT\DT10965_MOTOR_CONTROLLER_2025-07-30\OUTPUTS\Pick and Place\PickPlace_DT10965_v1.0_MOTOR CONTROLLER.txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       09.09.25
+Time:       11:32
+Revision:   66fc0d0da624437cbc81c448d1a06d65be34f7ff
+Variant:    No variations
+Units used: mm
+
+Designator Manufacturer                        Description                                                              Layer       Center-X(mm) Center-Y(mm) Rotation MPN                      
+C1         KEMET                               "CAP CER 0402 12PF 50V ULTRA STAB"                                       TopLayer    146.9781mm   11.6453mm    180      C0402C120J5HACAUTO       
+C2         KEMET                               "CAP CER 0402 12PF 50V ULTRA STAB"                                       TopLayer    146.9849mm   12.5517mm    180      C0402C120J5HACAUTO       
+C3         "Murata Electronics"                "CAP CER 0.1UF 50V X8L 0402"                                             BottomLayer 142.9371mm   12.2525mm    0        GCM155L8EH104KE07D       
+C4         "TDK Corporation"                   "CAP CER 2200PF 50V X8R 0402"                                            BottomLayer 130.4635mm   4.0620mm     270      CGA2B2X8R1H222K050BA     
+C5         "TDK Corporation"                   "CAP CER 2200PF 50V X8R 0402"                                            BottomLayer 127.3339mm   2.0270mm     90       CGA2B2X8R1H222K050BA     
+C6         "TDK Corporation"                   "CAP CER 2200PF 50V X8R 0402"                                            BottomLayer 129.2858mm   4.0375mm     270      CGA2B2X8R1H222K050BA     
+C7         "TDK Corporation"                   "CAP CER 2200PF 50V X8R 0402"                                            BottomLayer 130.1996mm   2.0293mm     90       CGA2B2X8R1H222K050BA     
+C8         "TDK Corporation"                   "CAP CER 2.2UF 6.3V X8L 0603"                                            BottomLayer 148.5290mm   15.9117mm    180      C1608X8L0J225K080AC      
+C9         "TDK Corporation"                   "CAP CER 2.2UF 6.3V X8L 0603"                                            BottomLayer 147.0208mm   13.3224mm    180      C1608X8L0J225K080AC      
+C10        "Murata Electronics"                "CAP CER 0.1UF 50V X8L 0402"                                             TopLayer    146.5872mm   10.6785mm    180      GCM155L8EH104KE07D       
+C11        "Murata Electronics"                "CAP CER 0.1UF 50V X8L 0402"                                             TopLayer    146.7900mm   13.7703mm    180      GCM155L8EH104KE07D       
+C12        "TDK Corporation"                   "CAP CER 2.2UF 6.3V X8L 0603"                                            BottomLayer 124.8144mm   8.0598mm     270      C1608X8L0J225K080AC      
+C13        "TDK Corporation"                   "CAP CER 2.2UF 6.3V X8L 0603"                                            BottomLayer 126.6366mm   8.0874mm     270      C1608X8L0J225K080AC      
+C14        "Murata Electronics"                "CAP CER 0.1UF 50V X8L 0402"                                             BottomLayer 137.0108mm   1.3071mm     270      GCM155L8EH104KE07D       
+C15        "Murata Electronics"                "CAP CER 0.1UF 50V X8L 0402"                                             BottomLayer 127.9047mm   7.7912mm     270      GCM155L8EH104KE07D       
+C16        "Murata Electronics"                "CAP CER 0.1UF 50V X8L 0402"                                             BottomLayer 139.8733mm   3.3991mm     270      GCM155L8EH104KE07D       
+C17        "TDK Corporation"                   "CAP CER 2.2UF 6.3V X8L 0603"                                            BottomLayer 142.5657mm   10.1151mm    0        C1608X8L0J225K080AC      
+C18        "TDK Corporation"                   "CAP CER 2.2UF 6.3V X8L 0603"                                            BottomLayer 140.9872mm   4.0707mm     270      C1608X8L0J225K080AC      
+C19        "TDK Corporation"                   "CAP CER 2.2UF 6.3V X8L 0603"                                            BottomLayer 136.6169mm   3.9892mm     270      C1608X8L0J225K080AC      
+C20        "TDK Corporation"                   "CAP CER 2.2UF 6.3V X8L 0603"                                            BottomLayer 136.5108mm   15.1821mm    90       C1608X8L0J225K080AC      
+C21        "TDK Corporation"                   "CAP CER 2.2UF 6.3V X8L 0603"                                            BottomLayer 131.4347mm   7.9314mm     180      C1608X8L0J225K080AC      
+C22        "TDK Corporation"                   "CAP CER 2.2UF 6.3V X8L 0603"                                            BottomLayer 138.4232mm   15.1811mm    90       C1608X8L0J225K080AC      
+C23        "TDK Corporation"                   "CAP CER 2.2UF 6.3V X8L 0603"                                            BottomLayer 132.8608mm   15.0467mm    90       C1608X8L0J225K080AC      
+C24        "TDK Corporation"                   "CAP CER 2.2UF 6.3V X8L 0603"                                            BottomLayer 143.1134mm   16.0520mm    180      C1608X8L0J225K080AC      
+C25        "TDK Corporation"                   "CAP CER 2.2UF 6.3V X8L 0603"                                            BottomLayer 142.7469mm   13.4335mm    0        C1608X8L0J225K080AC      
+C26        "TDK Corporation"                   "CAP CER 10UF 10V X8L 0805"                                              BottomLayer 125.6362mm   13.6448mm    0        CGA4J1X8L1A106K125AC     
+C27        "TDK Corporation"                   "CAP CER 10UF 10V X8L 0805"                                              BottomLayer 129.1558mm   16.8838mm    180      CGA4J1X8L1A106K125AC     
+C28        "TDK Corporation"                   "CAP CER 10UF 10V X8L 0805"                                              BottomLayer 143.7370mm   4.2911mm     0        CGA4J1X8L1A106K125AC     
+C29        "Murata Electronics"                "CAP CER 0.1UF 50V X8L 0402"                                             BottomLayer 138.8861mm   3.4067mm     270      GCM155L8EH104KE07D       
+C30        "Murata Electronics"                "CAP CER 0.1UF 50V X8L 0402"                                             BottomLayer 137.8861mm   3.4067mm     270      GCM155L8EH104KE07D       
+C31        "Murata Electronics"                "CAP CER 0.1UF 50V X8L 0402"                                             BottomLayer 130.9847mm   9.0161mm     180      GCM155L8EH104KE07D       
+C32        "Murata Electronics"                "CAP CER 0.1UF 50V X8L 0402"                                             BottomLayer 130.9549mm   11.0166mm    180      GCM155L8EH104KE07D       
+C33        "Murata Electronics"                "CAP CER 0.1UF 50V X8L 0402"                                             BottomLayer 141.3771mm   15.6157mm    90       GCM155L8EH104KE07D       
+C34        "Murata Electronics"                "CAP CER 0.1UF 50V X8L 0402"                                             BottomLayer 139.5192mm   15.6221mm    90       GCM155L8EH104KE07D       
+C35        "Murata Electronics"                "CAP CER 0.1UF 50V X8L 0402"                                             BottomLayer 127.9047mm   13.9985mm    90       GCM155L8EH104KE07D       
+C36        "Murata Electronics"                "CAP CER 0.1UF 50V X8L 0402"                                             BottomLayer 134.0108mm   15.3261mm    90       GCM155L8EH104KE07D       
+C37        "Murata Electronics"                "CAP CER 0.1UF 50V X8L 0402"                                             BottomLayer 135.3959mm   15.4367mm    90       GCM155L8EH104KE07D       
+C38        "Murata Electronics"                "CAP CER 0.1UF 50V X8L 0402"                                             BottomLayer 144.2153mm   5.7095mm     0        GCM155L8EH104KE07D       
+C39        "Murata Electronics"                "CAP CER 0.1UF 50V X8L 0402"                                             BottomLayer 142.8155mm   14.5375mm    0        GCM155L8EH104KE07D       
+C40        "Murata Electronics"                "CAP CER 0.1UF 50V X8L 0402"                                             BottomLayer 142.8785mm   8.8960mm     0        GCM155L8EH104KE07D       
+C41        "TDK Corporation"                   "CAP CER 2.2UF 6.3V X8L 0603"                                            TopLayer    149.1378mm   6.2553mm     180      C1608X8L0J225K080AC      
+C42        "Murata Electronics"                "CAP CER 0.1UF 50V X8L 0402"                                             BottomLayer 96.5164mm    10.0733mm    90       GCM155L8EH104KE07D       
+C43        "Murata Electronics"                "CAP CER 0.1UF 50V X8L 0402"                                             BottomLayer 87.3214mm    5.0375mm     90       GCM155L8EH104KE07D       
+C44        "Murata Electronics"                "CAP CER 0.1UF 50V X8L 0402"                                             BottomLayer 87.3214mm    13.5375mm    90       GCM155L8EH104KE07D       
+C45        "Murata Electronics"                "CAP CER 0.1UF 50V X8L 0402"                                             BottomLayer 96.9911mm    12.0375mm    180      GCM155L8EH104KE07D       
+C46        "Murata Electronics"                "CAP CER 0.1UF 50V X8L 0402"                                             BottomLayer 77.3210mm    5.0526mm     90       GCM155L8EH104KE07D       
+C47        "Murata Electronics"                "CAP CER 0.1UF 50V X8L 0402"                                             BottomLayer 77.3214mm    13.5375mm    90       GCM155L8EH104KE07D       
+C48        "Murata Electronics"                "CAP CER 0.1UF 50V X8L 0402"                                             BottomLayer 67.3214mm    5.0375mm     90       GCM155L8EH104KE07D       
+C49        "Murata Electronics"                "CAP CER 0.1UF 50V X8L 0402"                                             BottomLayer 67.3214mm    13.5375mm    90       GCM155L8EH104KE07D       
+C50        "Murata Electronics"                "CAP CER 0.1UF 50V X8L 0402"                                             BottomLayer 57.3214mm    5.0375mm     90       GCM155L8EH104KE07D       
+C51        "Murata Electronics"                "CAP CER 0.1UF 50V X8L 0402"                                             BottomLayer 57.3214mm    13.5375mm    90       GCM155L8EH104KE07D       
+C52        "Murata Electronics"                "CAP CER 0.1UF 50V X8L 0402"                                             BottomLayer 99.0053mm    7.0454mm     270      GCM155L8EH104KE07D       
+C53        "Murata Electronics"                "CAP CER 0.1UF 50V X8L 0402"                                             BottomLayer 100.1405mm   7.0410mm     270      GCM155L8EH104KE07D       
+C54        "Murata Electronics"                "CAP CER 1UF 16V X8L 0603"                                               BottomLayer 101.9477mm   7.8971mm     180      GCG188L8EE105KA07D       
+C55        "Murata Electronics"                "CAP CER 0.1UF 50V X8L 0402"                                             BottomLayer 159.0615mm   12.2333mm    0        GCM155L8EH104KE07D       
+C56        "Murata Electronics"                "CAP CER 0.1UF 50V X8L 0402"                                             BottomLayer 160.0535mm   14.9985mm    0        GCM155L8EH104KE07D       
+C57        "Murata Electronics"                "CAP CER 1UF 16V X8L 0603"                                               BottomLayer 159.8493mm   13.8350mm    0        GCG188L8EE105KA07D       
+C58        "TDK Corporation"                   "CAP CER 10UF 10V X8L 0805"                                              BottomLayer 106.3469mm   6.2081mm     270      CGA4J1X8L1A106K125AC     
+C59        "Murata Electronics"                "CAP CER 0.1UF 50V X8L 0402"                                             BottomLayer 113.0611mm   6.5090mm     270      GCM155L8EH104KE07D       
+C60        "Murata Electronics"                "CAP CER 0.1UF 50V X8L 0402"                                             BottomLayer 103.8099mm   5.5339mm     270      GCM155L8EH104KE07D       
+C61        "Murata Electronics"                "CAP CER 0.1UF 50V X8L 0402"                                             BottomLayer 104.8214mm   5.5375mm     270      GCM155L8EH104KE07D       
+C62        "Murata Electronics"                "CAP CER 0.1UF 50V X8L 0402"                                             BottomLayer 117.0593mm   15.3140mm    0        GCM155L8EH104KE07D       
+C63        "Murata Electronics"                "CAP CER 1UF 16V X8L 0603"                                               BottomLayer 116.8214mm   16.5375mm    0        GCG188L8EE105KA07D       
+C64        "Murata Electronics"                "CAP CER 0.1UF 50V X8L 0402"                                             BottomLayer 118.3407mm   12.6124mm    180      GCM155L8EH104KE07D       
+C65        "Murata Electronics"                "CAP CER 0.1UF 50V X8L 0402"                                             BottomLayer 118.6507mm   14.0869mm    90       GCM155L8EH104KE07D       
+C66        "Murata Electronics"                "CAP CER 1UF 16V X8L 0603"                                               BottomLayer 119.9671mm   13.7691mm    90       GCG188L8EE105KA07D       
+C67        "Samsung Electro-Mechanics"         "CAP CER 4.7UF 100V X8L 1210"                                            TopLayer    270.1190mm   14.9671mm    90       CL32E475KCIVPJE          
+C68        "Samsung Electro-Mechanics"         "CAP CER 4.7UF 100V X8L 1210"                                            TopLayer    266.9045mm   14.9671mm    90       CL32E475KCIVPJE          
+C69        "Murata Electronics"                "CAP CER 0.1UF 100V X8L 0603"                                            TopLayer    264.6334mm   14.6436mm    90       GCJ188L8EL104KA07D       
+C70        "Murata Electronics"                "CAP CER 0.1UF 100V X8L 0603"                                            BottomLayer 269.8270mm   14.6103mm    90       GCJ188L8EL104KA07D       
+C71        KEMET                               "CAP CER 0603 100PF 10V ULTRA STA"                                       BottomLayer 262.7419mm   16.0069mm    0        C0603C101K8HACAUTO       
+C72        KEMET                               "CAP CER 0603 100PF 10V ULTRA STA"                                       BottomLayer 262.7077mm   14.6696mm    0        C0603C101K8HACAUTO       
+C73        "TDK Corporation"                   "CAP CER 4.7UF 25V X8L 0805"                                             BottomLayer 266.5465mm   17.4045mm    0        CGA4J1X8L1E475K125AC     
+C74        "Samsung Electro-Mechanics"         "CAP CER 4.7UF 100V X8L 1210"                                            TopLayer    270.1190mm   8.9696mm     90       CL32E475KCIVPJE          
+C75        "Samsung Electro-Mechanics"         "CAP CER 4.7UF 100V X8L 1210"                                            TopLayer    266.8772mm   8.9671mm     90       CL32E475KCIVPJE          
+C76        "Murata Electronics"                "CAP CER 0.1UF 100V X8L 0603"                                            TopLayer    264.5785mm   8.6328mm     90       GCJ188L8EL104KA07D       
+C77        "Murata Electronics"                "CAP CER 0.1UF 100V X8L 0603"                                            BottomLayer 269.8270mm   8.7935mm     90       GCJ188L8EL104KA07D       
+C78        KEMET                               "CAP CER 0603 100PF 10V ULTRA STA"                                       BottomLayer 262.7178mm   10.4421mm    0        C0603C101K8HACAUTO       
+C79        KEMET                               "CAP CER 0603 100PF 10V ULTRA STA"                                       BottomLayer 262.7077mm   9.0596mm     0        C0603C101K8HACAUTO       
+C80        "TDK Corporation"                   "CAP CER 4.7UF 25V X8L 0805"                                             BottomLayer 266.5396mm   12.0032mm    0        CGA4J1X8L1E475K125AC     
+C81        "Murata Electronics"                "CAP CER 0.1UF 50V X8L 0402"                                             BottomLayer 259.3081mm   4.7719mm     90       GCM155L8EH104KE07D       
+C82        "Samsung Electro-Mechanics"         "CAP CER 4.7UF 100V X8L 1210"                                            TopLayer    266.9045mm   2.8705mm     90       CL32E475KCIVPJE          
+C83        "Samsung Electro-Mechanics"         "CAP CER 4.7UF 100V X8L 1210"                                            TopLayer    270.1190mm   2.8705mm     90       CL32E475KCIVPJE          
+C84        "Murata Electronics"                "CAP CER 0.1UF 100V X8L 0603"                                            TopLayer    264.5127mm   2.4921mm     90       GCJ188L8EL104KA07D       
+C85        "Murata Electronics"                "CAP CER 0.1UF 100V X8L 0603"                                            BottomLayer 269.8270mm   2.7819mm     90       GCJ188L8EL104KA07D       
+C86        KEMET                               "CAP CER 0603 100PF 10V ULTRA STA"                                       BottomLayer 262.6615mm   4.5798mm     0        C0603C101K8HACAUTO       
+C87        KEMET                               "CAP CER 0603 100PF 10V ULTRA STA"                                       BottomLayer 262.7077mm   3.3087mm     0        C0603C101K8HACAUTO       
+C88        "TDK Corporation"                   "CAP CER 4.7UF 25V X8L 0805"                                             BottomLayer 266.5504mm   6.3036mm     0        CGA4J1X8L1E475K125AC     
+C89        "Murata Electronics"                "CAP CER 0.033UF 50V X8L 0402"                                           TopLayer    246.3524mm   15.0345mm    270      GCM155L8EH333KE07D       
+C90        "Murata Electronics"                "CAP CER 0.033UF 50V X8L 0402"                                           BottomLayer 243.8362mm   17.4832mm    270      GCM155L8EH333KE07D       
+C91        KEMET                               "CAP CER 0402 1.5NF 16V ULTRA STA"                                       TopLayer    250.2475mm   17.1722mm    180      C0402C152F4HACAUTO       
+C92        "Murata Electronics"                "CAP CER 0.1UF 50V X8L 0402"                                             BottomLayer 245.4575mm   15.0086mm    0        GCM155L8EH104KE07D       
+C93        "Murata Electronics"                "CAP CER 0.1UF 50V X8L 0402"                                             BottomLayer 245.5122mm   17.6758mm    0        GCM155L8EH104KE07D       
+C94        "Murata Electronics"                "CAP CER 0.1UF 50V X8L 0402"                                             BottomLayer 237.9409mm   16.9229mm    90       GCM155L8EH104KE07D       
+C95        "Murata Electronics"                "CAP CER 0.1UF 50V X8L 0402"                                             BottomLayer 242.4994mm   17.4732mm    270      GCM155L8EH104KE07D       
+C96        "TDK Corporation"                   "CAP CER 2200PF 50V X8R 0402"                                            TopLayer    236.2944mm   14.8366mm    0        CGA2B2X8R1H222K050BA     
+C97        "Murata Electronics"                "CAP CER 0.033UF 50V X8L 0402"                                           TopLayer    246.1828mm   8.6669mm     0        GCM155L8EH333KE07D       
+C98        KEMET                               "CAP CER 0402 1.5NF 16V ULTRA STA"                                       TopLayer    250.4462mm   11.3657mm    180      C0402C152F4HACAUTO       
+C99        "Murata Electronics"                "CAP CER 0.1UF 50V X8L 0402"                                             TopLayer    238.6090mm   13.0584mm    180      GCM155L8EH104KE07D       
+C100       "TDK Corporation"                   "CAP CER 2200PF 50V X8R 0402"                                            TopLayer    242.5283mm   14.6934mm    90       CGA2B2X8R1H222K050BA     
+C101       "Murata Electronics"                "CAP CER 0.1UF 50V X8L 0402"                                             BottomLayer 245.7719mm   8.7313mm     0        GCM155L8EH104KE07D       
+C102       "Murata Electronics"                "CAP CER 0.1UF 50V X8L 0402"                                             BottomLayer 245.4958mm   11.2691mm    0        GCM155L8EH104KE07D       
+C103       "Murata Electronics"                "CAP CER 0.1UF 50V X8L 0402"                                             TopLayer    238.4018mm   10.7989mm    90       GCM155L8EH104KE07D       
+C104       "Murata Electronics"                "CAP CER 0.1UF 50V X8L 0402"                                             TopLayer    239.4357mm   5.7863mm     180      GCM155L8EH104KE07D       
+C105       "TDK Corporation"                   "CAP CER 2200PF 50V X8R 0402"                                            TopLayer    243.5292mm   7.4029mm     90       CGA2B2X8R1H222K050BA     
+C106       "Murata Electronics"                "CAP CER 0.033UF 50V X8L 0402"                                           TopLayer    246.0355mm   3.8413mm     0        GCM155L8EH333KE07D       
+C107       KEMET                               "CAP CER 0402 1.5NF 16V ULTRA STA"                                       TopLayer    250.4487mm   5.3824mm     180      C0402C152F4HACAUTO       
+C108       "Murata Electronics"                "CAP CER 0.1UF 50V X8L 0402"                                             BottomLayer 245.7140mm   2.8660mm     0        GCM155L8EH104KE07D       
+C109       "Murata Electronics"                "CAP CER 0.1UF 50V X8L 0402"                                             BottomLayer 245.6026mm   5.4746mm     0        GCM155L8EH104KE07D       
+C110       "Murata Electronics"                "CAP CER 0.1UF 50V X8L 0402"                                             TopLayer    239.5657mm   1.2890mm     180      GCM155L8EH104KE07D       
+C111       "TDK Corporation"                   "CAP CER 2200PF 50V X8R 0402"                                            TopLayer    243.6202mm   3.0245mm     90       CGA2B2X8R1H222K050BA     
+C112       ""                                  "DNP cap 0402"                                                           TopLayer    190.5171mm   16.7619mm    90       DNP                      
+C113       "Murata Electronics"                "CAP CER 0.1UF 50V X8L 0402"                                             BottomLayer 187.5341mm   12.9673mm    0        GCM155L8EH104KE07D       
+C114       "TDK Corporation"                   "CAP CER 0.47UF 50V X8L 0805"                                            TopLayer    193.1120mm   11.2558mm    180      CGA4J1X8L1H474K125AC     
+C115       "TDK Corporation"                   "CAP CER 0.47UF 50V X8L 0805"                                            TopLayer    189.2156mm   10.6404mm    180      CGA4J1X8L1H474K125AC     
+C116       "Murata Electronics"                "CAP CER 0.033UF 50V X8L 0402"                                           BottomLayer 184.8336mm   4.8783mm     180      GCM155L8EH333KE07D       
+C117       "Murata Electronics"                "CAP CER 0.1UF 50V X8L 0402"                                             BottomLayer 187.4606mm   16.3924mm    0        GCM155L8EH104KE07D       
+C118       "Murata Electronics"                "CAP CER 0.1UF 50V X8L 0402"                                             BottomLayer 187.4582mm   14.5996mm    0        GCM155L8EH104KE07D       
+C119       "Murata Electronics"                "CAP CER 0.1UF 50V X8L 0402"                                             BottomLayer 187.4606mm   15.4999mm    0        GCM155L8EH104KE07D       
+C120       KEMET                               "CAP CER 330PF 16V X8R 0603"                                             BottomLayer 184.5307mm   10.9427mm    0        C0603C331J4HACTU         
+C121       "Murata Electronics"                "CAP CER 0.1UF 50V X8L 0402"                                             BottomLayer 184.8640mm   13.0841mm    180      GCM155L8EH104KE07D       
+C122       ""                                  "DNP cap 0402"                                                           TopLayer    181.6698mm   16.7405mm    90       DNP                      
+C123       ""                                  "DNP cap 0402"                                                           TopLayer    190.7066mm   13.6959mm    270      DNP                      
+C124       "Murata Electronics"                "CAP CER 0.1UF 50V X8L 0402"                                             BottomLayer 186.8558mm   10.0897mm    270      GCM155L8EH104KE07D       
+C125       "TDK Corporation"                   "CAP CER 0.47UF 50V X8L 0805"                                            TopLayer    179.8837mm   13.0990mm    90       CGA4J1X8L1H474K125AC     
+C126       "Murata Electronics"                "CAP CER 0.1UF 50V X8L 0402"                                             TopLayer    188.1976mm   8.6968mm     90       GCM155L8EH104KE07D       
+C127       "TDK Corporation"                   "CAP CER 0.047UF 16V X8R 0402"                                           TopLayer    191.5086mm   1.7781mm     90       CGA2B3X8R1C473K050BB     
+C128       "TDK Corporation"                   "CAP CER 0.047UF 16V X8R 0402"                                           TopLayer    191.5086mm   3.7052mm     270      CGA2B3X8R1C473K050BB     
+C129       ""                                  "DNP cap 0402"                                                           BottomLayer 188.5557mm   3.2391mm     180      DNP                      
+C130       ""                                  "DNP cap 0402"                                                           BottomLayer 188.5480mm   4.2223mm     180      DNP                      
+C131       ""                                  "DNP cap 0402"                                                           BottomLayer 188.5455mm   5.2164mm     180      DNP                      
+C132       ""                                  "DNP cap 0402"                                                           BottomLayer 188.5520mm   6.1325mm     180      DNP                      
+C133       "Murata Electronics"                "CAP CER 0.1UF 50V X8L 0402"                                             BottomLayer 185.1413mm   9.3847mm     180      GCM155L8EH104KE07D       
+C134       "TDK Corporation"                   "CAP CER 0.47UF 50V X8L 0805"                                            BottomLayer 182.2126mm   11.1852mm    270      CGA4J1X8L1H474K125AC     
+C135       "Murata Electronics"                "CAP CER 0.1UF 50V X8L 0402"                                             BottomLayer 182.0920mm   1.7955mm     270      GCM155L8EH104KE07D       
+C136       "Murata Electronics"                "CAP CER 0.1UF 50V X8L 0402"                                             TopLayer    182.4110mm   12.1979mm    180      GCM155L8EH104KE07D       
+C137       KEMET                               "CAP CER 330PF 16V X8R 0603"                                             BottomLayer 178.6491mm   9.8898mm     180      C0603C331J4HACTU         
+C138       "TDK Corporation"                   "CAP CER 0.047UF 16V X8R 0402"                                           TopLayer    191.5129mm   5.7943mm     90       CGA2B3X8R1C473K050BB     
+C139       "TDK Corporation"                   "CAP CER 0.047UF 16V X8R 0402"                                           TopLayer    191.5405mm   7.7793mm     270      CGA2B3X8R1C473K050BB     
+C140       "Murata Electronics"                "CAP CER 0.1UF 50V X8L 0402"                                             BottomLayer 22.1300mm    15.3146mm    0        GCM155L8EH104KE07D       
+C141       "Murata Electronics"                "CAP CER 0.1UF 50V X8L 0402"                                             TopLayer    16.5599mm    10.9576mm    0        GCM155L8EH104KE07D       
+C142       "Murata Electronics"                "CAP CER 0.1UF 50V X8L 0402"                                             TopLayer    16.5599mm    12.9576mm    0        GCM155L8EH104KE07D       
+C143       KEMET                               "CAP CER 0402 560PF 16V ULTRA STA"                                       TopLayer    16.5599mm    15.9576mm    180      C0402C561F4HACAUTO       
+C144       "Murata Electronics"                "CAP CER 0.1UF 50V X8L 0402"                                             TopLayer    16.5599mm    16.9576mm    0        GCM155L8EH104KE07D       
+C145       "Murata Electronics"                "CAP CER 0.1UF 50V X8L 0402"                                             BottomLayer 20.9029mm    16.8870mm    90       GCM155L8EH104KE07D       
+C146       "Murata Electronics"                "CAP CER 0.1UF 50V X8L 0402"                                             BottomLayer 21.9146mm    17.5289mm    90       GCM155L8EH104KE07D       
+C147       "Murata Electronics"                "CAP CER 0.1UF 50V X8L 0402"                                             BottomLayer 18.8014mm    16.8972mm    90       GCM155L8EH104KE07D       
+C148       "Murata Electronics"                "CAP CER 0.1UF 50V X8L 0402"                                             BottomLayer 23.2586mm    17.5202mm    90       GCM155L8EH104KE07D       
+C149       "Murata Electronics"                "CAP CER 0.1UF 50V X8L 0402"                                             TopLayer    16.5599mm    14.9576mm    0        GCM155L8EH104KE07D       
+C150       "Murata Electronics"                "CAP CER 0.1UF 50V X8L 0402"                                             BottomLayer 109.4592mm   16.3545mm    270      GCM155L8EH104KE07D       
+C151       "Murata Electronics"                "CAP CER 0.1UF 50V X8L 0402"                                             BottomLayer 109.4592mm   14.5817mm    270      GCM155L8EH104KE07D       
+C152       "Murata Electronics"                "CAP CER 0.1UF 50V X8L 0402"                                             TopLayer    169.5229mm   15.8849mm    270      GCM155L8EH104KE07D       
+C153       "Murata Electronics"                "CAP CER 1UF 16V X8L 0603"                                               TopLayer    168.3718mm   16.7550mm    270      GCG188L8EE105KA07D       
+C154       "TDK Corporation"                   "CAP CER 10UF 10V X8L 0805"                                              TopLayer    169.1568mm   12.9239mm    90       CGA4J1X8L1A106K125AC     
+C155       "Murata Electronics"                "CAP CER 0.1UF 50V X8L 0402"                                             TopLayer    162.7902mm   16.7730mm    0        GCM155L8EH104KE07D       
+C156       "Murata Electronics"                "CAP CER 0.1UF 50V X8L 0402"                                             BottomLayer 164.6160mm   13.7657mm    0        GCM155L8EH104KE07D       
+C157       "Murata Electronics"                "CAP CER 0.1UF 100V X8L 0603"                                            TopLayer    259.0739mm   16.2099mm    270      GCJ188L8EL104KA07D       
+C158       "Murata Electronics"                "CAP CER 1UF 100V X8L 1206"                                              TopLayer    262.2980mm   15.9121mm    270      GCJ31CL8EL105KA07L       
+C159       "Murata Electronics"                "CAP CER 0.1UF 100V X8L 0603"                                            TopLayer    212.2622mm   1.3177mm     0        GCJ188L8EL104KA07D       
+C160       "Murata Electronics"                "CAP CER 0.1UF 100V X8L 0603"                                            TopLayer    227.7795mm   6.7733mm     0        GCJ188L8EL104KA07D       
+C161       "Murata Electronics"                "CAP CER 1UF 100V X8L 1206"                                              TopLayer    218.7149mm   3.1914mm     90       GCJ31CL8EL105KA07L       
+C162       "Murata Electronics"                "CAP CER 0.1UF 100V X8L 0603"                                            TopLayer    216.8498mm   4.1834mm     90       GCJ188L8EL104KA07D       
+C163       "Murata Electronics"                "CAP CER 0.1UF 100V X8L 0603"                                            TopLayer    202.9332mm   9.1962mm     0        GCJ188L8EL104KA07D       
+C164       "Murata Electronics"                "CAP CER 22UF 25V X8L 1210"                                              TopLayer    203.9659mm   6.9266mm     0        GCM32EL8EF226KE08L       
+C165       "Murata Electronics"                "CAP CER 22UF 25V X8L 1210"                                              TopLayer    208.7258mm   6.9257mm     180      GCM32EL8EF226KE08L       
+C166       "Murata Electronics"                "CAP CER 22UF 25V X8L 1210"                                              TopLayer    203.4176mm   2.9996mm     90       GCM32EL8EF226KE08L       
+C167       "Murata Electronics"                "CAP CER 1UF 100V X8L 1206"                                              TopLayer    225.8051mm   15.2187mm    270      GCJ31CL8EL105KA07L       
+C168       "Murata Electronics"                "CAP CER 0.1UF 100V X8L 0603"                                            TopLayer    224.7396mm   11.1252mm    90       GCJ188L8EL104KA07D       
+C169       "Murata Electronics"                "CAP CER 0.1UF 100V X8L 0603"                                            TopLayer    234.8490mm   7.3665mm     270      GCJ188L8EL104KA07D       
+C170       "Murata Electronics"                "CAP CER 22UF 25V X8L 1210"                                              TopLayer    232.6142mm   8.1068mm     270      GCM32EL8EF226KE08L       
+C171       "Murata Electronics"                "CAP CER 22UF 25V X8L 1210"                                              TopLayer    235.8268mm   3.2740mm     90       GCM32EL8EF226KE08L       
+C172       "Murata Electronics"                "CAP CER 22UF 25V X8L 1210"                                              TopLayer    232.6002mm   3.2740mm     90       GCM32EL8EF226KE08L       
+C173       "Murata Electronics"                "CAP CER 0.1UF 100V X8L 0603"                                            TopLayer    215.9649mm   6.8728mm     0        GCJ188L8EL104KA07D       
+C174       "Murata Electronics"                "CAP CER 0.1UF 50V X8L 0402"                                             TopLayer    162.7928mm   8.5578mm     270      GCM155L8EH104KE07D       
+C175       "Murata Electronics"                "CAP CER 22UF 25V X8L 1210"                                              TopLayer    165.5223mm   2.6225mm     180      GCM32EL8EF226KE08L       
+C176       "Murata Electronics"                "CAP CER 22UF 25V X8L 1210"                                              TopLayer    165.5040mm   5.8983mm     180      GCM32EL8EF226KE08L       
+C177       "Murata Electronics"                "CAP CER 1UF 100V X8L 1206"                                              TopLayer    222.6932mm   10.4952mm    90       GCJ31CL8EL105KA07L       
+C178       "Murata Electronics"                "CAP CER 1UF 100V X8L 1206"                                              TopLayer    223.2719mm   15.2187mm    270      GCJ31CL8EL105KA07L       
+C179       "Murata Electronics"                "CAP CER 1UF 100V X8L 1206"                                              TopLayer    220.7573mm   15.2187mm    270      GCJ31CL8EL105KA07L       
+C180       "Murata Electronics"                "CAP CER 0.1UF 100V X8L 0603"                                            TopLayer    219.2558mm   11.9425mm    0        GCJ188L8EL104KA07D       
+C181       "TDK Corporation"                   "CAP CER 10UF 10V X8L 0805"                                              TopLayer    166.1528mm   12.0371mm    0        CGA4J1X8L1A106K125AC     
+C182       "Murata Electronics"                "CAP CER 0.1UF 50V X8L 0402"                                             TopLayer    166.9767mm   10.7032mm    0        GCM155L8EH104KE07D       
+C183       "Murata Electronics"                "CAP CER 0.1UF 100V X8L 0603"                                            TopLayer    210.9327mm   15.1767mm    270      GCJ188L8EL104KA07D       
+C184       "Murata Electronics"                "CAP CER 22UF 25V X8L 1210"                                              TopLayer    209.5525mm   11.1756mm    90       GCM32EL8EF226KE08L       
+C185       "Murata Electronics"                "CAP CER 22UF 25V X8L 1210"                                              TopLayer    208.7382mm   16.0113mm    270      GCM32EL8EF226KE08L       
+C186       "Murata Electronics"                "CAP CER 22UF 25V X8L 1210"                                              TopLayer    216.4708mm   15.9587mm    270      GCM32EL8EF226KE08L       
+C187       "Murata Electronics"                "CAP CER 0.1UF 50V X8L 0402"                                             TopLayer    124.7523mm   5.4529mm     180      GCM155L8EH104KE07D       
+C188       "TDK Corporation"                   "CAP CER 2.2UF 6.3V X8L 0603"                                            TopLayer    127.0198mm   8.5414mm     270      C1608X8L0J225K080AC      
+C189       "TDK Corporation"                   "CAP CER 2.2UF 6.3V X8L 0603"                                            TopLayer    120.0347mm   2.9097mm     90       C1608X8L0J225K080AC      
+C190       "Murata Electronics"                "CAP CER 0.1UF 50V X8L 0402"                                             TopLayer    118.8076mm   2.7622mm     90       GCM155L8EH104KE07D       
+C191       "TDK Corporation"                   "CAP CER 10UF 10V X8L 0805"                                              TopLayer    161.8896mm   5.4143mm     90       CGA4J1X8L1A106K125AC     
+C192       "Murata Electronics"                "CAP CER 0.1UF 50V X8L 0402"                                             TopLayer    160.5421mm   6.0637mm     90       GCM155L8EH104KE07D       
+C193       "TDK Corporation"                   "CAP CER 10UF 10V X8L 0805"                                              TopLayer    156.2437mm   2.4097mm     0        CGA4J1X8L1A106K125AC     
+C194       "TDK Corporation"                   "CAP CER 10UF 10V X8L 0805"                                              TopLayer    159.4778mm   2.4250mm     180      CGA4J1X8L1A106K125AC     
+C195       "Murata Electronics"                "CAP CER 0.1UF 50V X8L 0402"                                             TopLayer    155.8831mm   3.8861mm     0        GCM155L8EH104KE07D       
+C196       "TDK Corporation"                   "CAP CER 10UF 10V X8L 0805"                                              TopLayer    156.0013mm   8.6743mm     270      CGA4J1X8L1A106K125AC     
+C197       ""                                  "DNP cap 0402"                                                           TopLayer    120.0017mm   5.2412mm     270      DNP                      
+C198       "Murata Electronics"                "CAP CER 0.1UF 50V X8L 0402"                                             TopLayer    117.6584mm   7.6681mm     0        GCM155L8EH104KE07D       
+C199       "TDK Corporation"                   "CAP CER 2.2UF 6.3V X8L 0603"                                            TopLayer    117.2789mm   8.9229mm     0        C1608X8L0J225K080AC      
+C200       "Murata Electronics"                "CAP CER 0.1UF 50V X8L 0402"                                             TopLayer    125.6471mm   10.0956mm    180      GCM155L8EH104KE07D       
+C201       "TDK Corporation"                   "CAP CER 2.2UF 6.3V X8L 0603"                                            TopLayer    126.9999mm   3.4263mm     270      C1608X8L0J225K080AC      
+C202       "Murata Electronics"                "CAP CER 0.1UF 50V X8L 0402"                                             BottomLayer 34.3378mm    8.6478mm     90       GCM155L8EH104KE07D       
+C203       "Murata Electronics"                "CAP CER 0.1UF 50V X8L 0402"                                             TopLayer    29.2134mm    1.7806mm     0        GCM155L8EH104KE07D       
+C204       "Murata Electronics"                "CAP CER 0.1UF 50V X8L 0402"                                             TopLayer    29.2134mm    3.6895mm     0        GCM155L8EH104KE07D       
+C205       KEMET                               "CAP CER 0402 560PF 16V ULTRA STA"                                       TopLayer    29.2134mm    6.5547mm     180      C0402C561F4HACAUTO       
+C206       "Murata Electronics"                "CAP CER 0.1UF 50V X8L 0402"                                             TopLayer    29.2134mm    7.5546mm     0        GCM155L8EH104KE07D       
+C207       "Murata Electronics"                "CAP CER 0.1UF 50V X8L 0402"                                             BottomLayer 33.3694mm    8.1861mm     90       GCM155L8EH104KE07D       
+C208       "Murata Electronics"                "CAP CER 0.1UF 50V X8L 0402"                                             BottomLayer 34.5249mm    6.4898mm     0        GCM155L8EH104KE07D       
+C209       "Murata Electronics"                "CAP CER 0.1UF 50V X8L 0402"                                             BottomLayer 31.2591mm    8.1670mm     90       GCM155L8EH104KE07D       
+C210       "Murata Electronics"                "CAP CER 0.1UF 50V X8L 0402"                                             BottomLayer 35.5732mm    8.6379mm     90       GCM155L8EH104KE07D       
+C211       "Murata Electronics"                "CAP CER 0.1UF 50V X8L 0402"                                             TopLayer    29.2134mm    5.5920mm     0        GCM155L8EH104KE07D       
+C212       "Murata Electronics"                "CAP CER 0.1UF 50V X8L 0402"                                             BottomLayer 22.0014mm    6.4175mm     0        GCM155L8EH104KE07D       
+C213       "Murata Electronics"                "CAP CER 0.1UF 50V X8L 0402"                                             TopLayer    16.5582mm    1.5333mm     0        GCM155L8EH104KE07D       
+C214       "Murata Electronics"                "CAP CER 0.1UF 50V X8L 0402"                                             TopLayer    16.5582mm    4.5333mm     0        GCM155L8EH104KE07D       
+C215       KEMET                               "CAP CER 0402 560PF 16V ULTRA STA"                                       TopLayer    16.5508mm    6.5841mm     180      C0402C561F4HACAUTO       
+C216       "Murata Electronics"                "CAP CER 0.1UF 50V X8L 0402"                                             TopLayer    16.5508mm    7.5839mm     0        GCM155L8EH104KE07D       
+C217       "Murata Electronics"                "CAP CER 0.1UF 50V X8L 0402"                                             BottomLayer 20.8477mm    7.9746mm     90       GCM155L8EH104KE07D       
+C218       "Murata Electronics"                "CAP CER 0.1UF 50V X8L 0402"                                             BottomLayer 21.8261mm    8.6175mm     90       GCM155L8EH104KE07D       
+C219       "Murata Electronics"                "CAP CER 0.1UF 50V X8L 0402"                                             BottomLayer 18.7509mm    7.9570mm     90       GCM155L8EH104KE07D       
+C220       "Murata Electronics"                "CAP CER 0.1UF 50V X8L 0402"                                             BottomLayer 23.2371mm    8.6175mm     90       GCM155L8EH104KE07D       
+C221       "Murata Electronics"                "CAP CER 0.1UF 50V X8L 0402"                                             TopLayer    16.5582mm    5.5333mm     0        GCM155L8EH104KE07D       
+C222       "Murata Electronics"                "CAP CER 0.1UF 50V X8L 0402"                                             BottomLayer 34.3198mm    17.5977mm    90       GCM155L8EH104KE07D       
+C223       "Murata Electronics"                "CAP CER 0.1UF 50V X8L 0402"                                             TopLayer    29.1495mm    10.4298mm    0        GCM155L8EH104KE07D       
+C224       "Murata Electronics"                "CAP CER 0.1UF 50V X8L 0402"                                             TopLayer    29.1528mm    12.4125mm    0        GCM155L8EH104KE07D       
+C225       KEMET                               "CAP CER 0402 560PF 16V ULTRA STA"                                       TopLayer    29.1327mm    15.4053mm    180      C0402C561F4HACAUTO       
+C226       "Murata Electronics"                "CAP CER 0.1UF 50V X8L 0402"                                             TopLayer    29.1235mm    16.3207mm    0        GCM155L8EH104KE07D       
+C227       "Murata Electronics"                "CAP CER 0.1UF 50V X8L 0402"                                             BottomLayer 33.4220mm    16.8660mm    90       GCM155L8EH104KE07D       
+C228       "Murata Electronics"                "CAP CER 0.1UF 50V X8L 0402"                                             BottomLayer 34.6496mm    15.4384mm    0        GCM155L8EH104KE07D       
+C229       "Murata Electronics"                "CAP CER 0.1UF 50V X8L 0402"                                             BottomLayer 31.3230mm    17.0340mm    90       GCM155L8EH104KE07D       
+C230       "Murata Electronics"                "CAP CER 0.1UF 50V X8L 0402"                                             BottomLayer 35.8163mm    17.5822mm    90       GCM155L8EH104KE07D       
+C231       "Murata Electronics"                "CAP CER 0.1UF 50V X8L 0402"                                             TopLayer    29.1217mm    14.2995mm    0        GCM155L8EH104KE07D       
+C232       "Murata Electronics"                "CAP CER 0.1UF 50V X8L 0402"                                             BottomLayer 47.4879mm    17.6676mm    90       GCM155L8EH104KE07D       
+C233       "Murata Electronics"                "CAP CER 0.1UF 50V X8L 0402"                                             TopLayer    42.2429mm    10.3666mm    0        GCM155L8EH104KE07D       
+C234       "Murata Electronics"                "CAP CER 0.1UF 50V X8L 0402"                                             TopLayer    42.2429mm    13.4884mm    0        GCM155L8EH104KE07D       
+C235       KEMET                               "CAP CER 0402 560PF 16V ULTRA STA"                                       TopLayer    42.2414mm    15.3622mm    180      C0402C561F4HACAUTO       
+C236       "Murata Electronics"                "CAP CER 0.1UF 50V X8L 0402"                                             TopLayer    42.2300mm    16.2748mm    0        GCM155L8EH104KE07D       
+C237       "Murata Electronics"                "CAP CER 0.1UF 50V X8L 0402"                                             BottomLayer 46.4659mm    17.0453mm    90       GCM155L8EH104KE07D       
+C238       "Murata Electronics"                "CAP CER 0.1UF 50V X8L 0402"                                             BottomLayer 47.7689mm    15.1570mm    0        GCM155L8EH104KE07D       
+C239       "Murata Electronics"                "CAP CER 0.1UF 50V X8L 0402"                                             BottomLayer 44.6304mm    17.0152mm    90       GCM155L8EH104KE07D       
+C240       "Murata Electronics"                "CAP CER 0.1UF 50V X8L 0402"                                             BottomLayer 48.8698mm    17.6656mm    90       GCM155L8EH104KE07D       
+C241       "Murata Electronics"                "CAP CER 0.1UF 50V X8L 0402"                                             TopLayer    42.2429mm    14.4332mm    0        GCM155L8EH104KE07D       
+C246       "Murata Electronics"                "CAP CER 1UF 100V X8L 1206"                                              TopLayer    221.2496mm   3.1865mm     90       GCJ31CL8EL105KA07L       
+C247       "Murata Electronics"                "CAP CER 1UF 100V X8L 1206"                                              TopLayer    223.7589mm   3.1865mm     90       GCJ31CL8EL105KA07L       
+C248       "Murata Electronics"                "CAP CER 1UF 100V X8L 1206"                                              TopLayer    230.7713mm   15.2187mm    270      GCJ31CL8EL105KA07L       
+C249       "Murata Electronics"                "CAP CER 1UF 100V X8L 1206"                                              TopLayer    228.3058mm   15.2187mm    270      GCJ31CL8EL105KA07L       
+C250       "Murata Electronics"                "CAP CER 22UF 25V X8L 1210"                                              TopLayer    213.1383mm   15.9587mm    270      GCM32EL8EF226KE08L       
+C251       "Murata Electronics"                "CAP CER 22UF 25V X8L 1210"                                              TopLayer    206.3559mm   11.1756mm    90       GCM32EL8EF226KE08L       
+C252       "Murata Electronics"                "CAP CER 22UF 25V X8L 1210"                                              TopLayer    205.5160mm   16.0113mm    270      GCM32EL8EF226KE08L       
+D1         "Diodes Incorporated"               "DIODE SCHOTTKY 80V 500MA SOD123"                                        BottomLayer 133.2157mm   3.8718mm     180      MBR0580S1-7              
+D2         "Diodes Incorporated"               "DIODE SCHOTTKY 80V 500MA SOD123"                                        BottomLayer 124.5172mm   1.8784mm     0        MBR0580S1-7              
+D3         "Diodes Incorporated"               "DIODE SCHOTTKY 80V 500MA SOD123"                                        BottomLayer 126.1794mm   4.0263mm     0        MBR0580S1-7              
+D4         "Diodes Incorporated"               "DIODE SCHOTTKY 80V 500MA SOD123"                                        BottomLayer 133.1787mm   1.7399mm     180      MBR0580S1-7              
+D5         "Micro Commercial Co"               "DIODE SCHOTTKY 40V 1A DO214AC"                                          TopLayer    164.8902mm   14.4250mm    180      SS14-LTP                 
+D6         "Diodes Incorporated"               "TVS DIODE 5.5VWM 12VC SOT363"                                           BottomLayer 168.3718mm   16.4400mm    180      D5V0F4U6S-7              
+D7         onsemi                              "DIODE ZENER 10V 300MW SOD323"                                           TopLayer    257.5678mm   16.4671mm    90       MM3Z10VST1G              
+D8         "Nexperia USA Inc."                 "DIODE ARR SCHOTT 30V TO236AB"                                           BottomLayer 165.0428mm   11.6121mm    0        BAT54S,215               
+D9         ""                                  "LED COOL WHITE DIFFUSED 0402 SMD"                                       TopLayer    123.1366mm   14.0874mm    90       APT1608SEC/J3-AMT        
+D10        "Diodes Incorporated"               "DIODE ARRAY SCHOTTKY 30V SOT23-3"                                       BottomLayer 111.6051mm   15.0345mm    270      BAT54CTA                 
+FB1        "Murata Electronics"                "FERRITE BEAD 220 OHM 0603 1LN"                                          BottomLayer 146.6010mm   15.3113mm    270      BLM18KG221BH1D           
+FB2        "Murata Electronics"                "FERRITE BEAD 220 OHM 0603 1LN"                                          BottomLayer 125.6471mm   6.0566mm     0        BLM18KG221BH1D           
+FB3        "Murata Electronics"                "FERRITE BEAD 220 OHM 0603 1LN"                                          BottomLayer 126.4960mm   15.9452mm    90       BLM18KG221BH1D           
+FB4        "Murata Electronics"                "FERRITE BEAD 220 OHM 0603 1LN"                                          TopLayer    149.1378mm   7.7553mm     0        BLM18KG221BH1D           
+FB5        "Murata Electronics"                "FERRITE BEAD 220 OHM 0603 1LN"                                          BottomLayer 98.4967mm    10.9014mm    180      BLM18KG221BH1D           
+FB6        "Murata Electronics"                "FERRITE BEAD 220 OHM 0603 1LN"                                          BottomLayer 101.9094mm   6.6042mm     180      BLM18KG221BH1D           
+FB7        "Murata Electronics"                "FERRITE BEAD 220 OHM 0603 1LN"                                          BottomLayer 161.2802mm   12.2333mm    180      BLM18KG221BH1D           
+FB8        "Murata Electronics"                "FERRITE BEAD 220 OHM 0603 1LN"                                          BottomLayer 114.0919mm   8.6804mm     270      BLM18KG221BH1D           
+FB9        "Murata Electronics"                "FERRITE BEAD 220 OHM 0603 1LN"                                          BottomLayer 119.4791mm   16.5375mm    0        BLM18KG221BH1D           
+FB10       "Murata Electronics"                "FERRITE BEAD 220 OHM 0603 1LN"                                          BottomLayer 121.2747mm   13.7643mm    270      BLM18KG221BH1D           
+FB11       "Murata Electronics"                "FERRITE BEAD 220 OHM 0603 1LN"                                          BottomLayer 235.9885mm   17.2809mm    0        BLM18KG221BH1D           
+FB12       "Murata Electronics"                "FERRITE BEAD 220 OHM 0603 1LN"                                          BottomLayer 24.8505mm    14.9152mm    180      BLM18KG221BH1D           
+FB13       "Murata Electronics"                "FERRITE BEAD 220 OHM 0603 1LN"                                          BottomLayer 107.4750mm   15.9106mm    0        BLM18KG221BH1D           
+FB14       "Murata Electronics"                "FERRITE BEAD 220 OHM 0603 1LN"                                          TopLayer    165.5853mm   16.7490mm    180      BLM18KG221BH1D           
+FB15       "Murata Electronics"                "FERRITE BEAD 220 OHM 0603 1LN"                                          TopLayer    156.1790mm   5.7909mm     90       BLM18KG221BH1D           
+FB16       "Murata Electronics"                "FERRITE BEAD 220 OHM 0603 1LN"                                          BottomLayer 37.3995mm    6.3302mm     180      BLM18KG221BH1D           
+FB17       "Murata Electronics"                "FERRITE BEAD 220 OHM 0603 1LN"                                          BottomLayer 24.9202mm    6.3127mm     180      BLM18KG221BH1D           
+FB18       "Murata Electronics"                "FERRITE BEAD 220 OHM 0603 1LN"                                          BottomLayer 37.7165mm    15.4661mm    180      BLM18KG221BH1D           
+FB19       "Murata Electronics"                "FERRITE BEAD 220 OHM 0603 1LN"                                          BottomLayer 50.6368mm    15.1472mm    180      BLM18KG221BH1D           
+J2         "METZ CONNECT USA Inc."             "Connector Header Through Hole 4 position 0.050" (1.27mm)"               TopLayer    175.7551mm   1.0153mm     0        PR20B04VBNN              
+J3         "METZ CONNECT USA Inc."             "Connector Header Through Hole 4 position 0.050" (1.27mm)"               TopLayer    12.8000mm    18.1000mm    0        PR20B04VBNN              
+J4         "METZ CONNECT USA Inc."             "Connector Header Through Hole 4 position 0.050" (1.27mm)"               TopLayer    38.6806mm    1.0153mm     0        PR20B04VBNN              
+J5         "METZ CONNECT USA Inc."             "Connector Header Through Hole 4 position 0.050" (1.27mm)"               TopLayer    25.4378mm    1.0153mm     0        PR20B04VBNN              
+J6         "METZ CONNECT USA Inc."             "Connector Header Through Hole 4 position 0.050" (1.27mm)"               TopLayer    27.6451mm    18.1000mm    0        PR20B04VBNN              
+J7         "METZ CONNECT USA Inc."             "Connector Header Through Hole 4 position 0.050" (1.27mm)"               TopLayer    54.7000mm    18.1000mm    0        PR20B04VBNN              
+L1         "Pulse Electronics"                 "CMC 330MA 2LN 90OHM SMD AEC-Q200"                                       BottomLayer 164.0000mm   16.4400mm    180      AWCU00201212900M02       
+L2         "Bourns Inc."                       "FIXED IND 22UH 1.2A 500 MOHM SMD"                                       TopLayer    208.0388mm   2.8779mm     180      SRP4020TA-220M           
+L3         "Bourns Inc."                       "FIXED IND 18UH 1.7A 160 MOHM SMD"                                       TopLayer    228.0616mm   3.3888mm     90       SRR4828A-180M            
+L4         "Bourns Inc."                       "FIXED IND 8.2UH 2A 180 MOHM SMD"                                        TopLayer    213.5617mm   10.2434mm    90       SRP4020TA-8R2M           
+L5         "Murata Electronics"                "FIXED IND 1.5UH 2.3A 74 MOHM SMD"                                       TopLayer    165.0294mm   8.8949mm     180      DFE2HCAH1R5MJ0L          
+L6         "Murata Electronics"                "FIXED IND 1UH 3A 50 MOHM SMD"                                           TopLayer    158.4815mm   4.6628mm     180      DFE2HCAH1R0MJ0L          
+Q1         "Toshiba Semiconductor and Storage" "PB-F POWER MOSFET TRANSISTOR DSO"                                       TopLayer    276.8211mm   15.4021mm    90       TPW3R70APL,L1Q           
+Q2         "Toshiba Semiconductor and Storage" "PB-F POWER MOSFET TRANSISTOR DSO"                                       BottomLayer 275.6147mm   15.6021mm    90       TPW3R70APL,L1Q           
+Q3         "Toshiba Semiconductor and Storage" "PB-F POWER MOSFET TRANSISTOR DSO"                                       TopLayer    276.8211mm   9.4671mm     90       TPW3R70APL,L1Q           
+Q4         "Toshiba Semiconductor and Storage" "PB-F POWER MOSFET TRANSISTOR DSO"                                       BottomLayer 275.6147mm   9.3321mm     90       TPW3R70APL,L1Q           
+Q5         "Toshiba Semiconductor and Storage" "PB-F POWER MOSFET TRANSISTOR DSO"                                       TopLayer    276.8211mm   3.4416mm     90       TPW3R70APL,L1Q           
+Q6         "Toshiba Semiconductor and Storage" "PB-F POWER MOSFET TRANSISTOR DSO"                                       BottomLayer 275.5954mm   3.4756mm     90       TPW3R70APL,L1Q           
+Q7         "Infineon Technologies"             "MOSFET N-CH 240V 350MA SOT223-4"                                        BottomLayer 174.5727mm   5.7105mm     180      BSP129H6327XTSA1         
+Q8         "Vishay Siliconix"                  "MOSFETs P-CHANNEL 80-V (D-S) 175C MOSFET"                               TopLayer    258.1678mm   11.9664mm    180      SQJ185ELP-T1_GE3         
+R1         YAGEO                               "RES 22 OHM 1% 1/16W 0402"                                               BottomLayer 146.9439mm   1.2561mm     180      RC0402FR-0722RL          
+R2         YAGEO                               "RES 1M OHM 1% 1/16W 0402"                                               TopLayer    148.3574mm   13.0774mm    90       RC0402FR-071ML           
+R3         YAGEO                               "RES 22 OHM 1% 1/16W 0402"                                               BottomLayer 146.9333mm   2.3427mm     180      RC0402FR-0722RL          
+R4         ""                                  "DNP res 0603"                                                           TopLayer    146.9945mm   9.4733mm     0        DNP                      
+R5         YAGEO                               "RES 10K OHM 1% 1/16W 0402"                                              BottomLayer 144.5040mm   10.8871mm    90       RC0402FR-0710KL          
+R6         YAGEO                               "RES SMD 0 OHM JUMPER 1/16W 0402"                                        TopLayer    215.7666mm   4.1991mm     270      RC0402FR-070RL           
+R7         YAGEO                               "RES SMD 0 OHM JUMPER 1/16W 0402"                                        TopLayer    226.5222mm   12.1605mm    0        RC0402FR-070RL           
+R8         YAGEO                               "RES SMD 0 OHM JUMPER 1/16W 0402"                                        TopLayer    220.7573mm   9.6702mm     270      RC0402FR-070RL           
+R9         YAGEO                               "RES SMD 0 OHM JUMPER 1/16W 0402"                                        TopLayer    170.5397mm   8.2505mm     180      RC0402FR-070RL           
+R10        YAGEO                               "RES 47.5K OHM 1% 1/16W 0402"                                            BottomLayer 88.3412mm    3.9680mm     90       RC0402FR-0747K5L         
+R11        YAGEO                               "RES 47.5K OHM 1% 1/16W 0402"                                            BottomLayer 85.8214mm    6.0375mm     90       RC0402FR-0747K5L         
+R12        YAGEO                               "RES 47.5K OHM 1% 1/16W 0402"                                            BottomLayer 89.3411mm    7.0375mm     90       RC0402FR-0747K5L         
+R13        YAGEO                               "RES 47.5K OHM 1% 1/16W 0402"                                            BottomLayer 88.3411mm    7.0375mm     90       RC0402FR-0747K5L         
+R14        YAGEO                               "RES 47.5K OHM 1% 1/16W 0402"                                            BottomLayer 88.3214mm    12.5100mm    90       RC0402FR-0747K5L         
+R15        YAGEO                               "RES 47.5K OHM 1% 1/16W 0402"                                            BottomLayer 85.8214mm    14.5375mm    90       RC0402FR-0747K5L         
+R16        YAGEO                               "RES 47.5K OHM 1% 1/16W 0402"                                            BottomLayer 89.3214mm    15.5375mm    90       RC0402FR-0747K5L         
+R17        YAGEO                               "RES 47.5K OHM 1% 1/16W 0402"                                            BottomLayer 88.3214mm    15.5375mm    90       RC0402FR-0747K5L         
+R18        YAGEO                               "RES 22 OHM 1% 1/16W 0402"                                               BottomLayer 86.8714mm    3.4175mm     0        RC0402FR-0722RL          
+R19        YAGEO                               "RES 22 OHM 1% 1/16W 0402"                                               BottomLayer 85.6789mm    11.9175mm    0        RC0402FR-0722RL          
+R20        YAGEO                               "RES 22 OHM 1% 1/16W 0402"                                               BottomLayer 90.8174mm    5.5642mm     180      RC0402FR-0722RL          
+R21        YAGEO                               "RES 22 OHM 1% 1/16W 0402"                                               BottomLayer 90.8214mm    14.1125mm    180      RC0402FR-0722RL          
+R22        YAGEO                               "RES 22 OHM 1% 1/16W 0402"                                               BottomLayer 90.8270mm    4.4984mm     180      RC0402FR-0722RL          
+R23        YAGEO                               "RES 22 OHM 1% 1/16W 0402"                                               BottomLayer 90.8214mm    13.1125mm    180      RC0402FR-0722RL          
+R24        YAGEO                               "RES 47.5K OHM 1% 1/16W 0402"                                            BottomLayer 78.3214mm    4.0375mm     90       RC0402FR-0747K5L         
+R25        YAGEO                               "RES 47.5K OHM 1% 1/16W 0402"                                            BottomLayer 75.8214mm    6.0375mm     90       RC0402FR-0747K5L         
+R26        YAGEO                               "RES 47.5K OHM 1% 1/16W 0402"                                            BottomLayer 79.3214mm    7.0375mm     90       RC0402FR-0747K5L         
+R27        YAGEO                               "RES 47.5K OHM 1% 1/16W 0402"                                            BottomLayer 78.3214mm    7.0375mm     90       RC0402FR-0747K5L         
+R28        YAGEO                               "RES 47.5K OHM 1% 1/16W 0402"                                            BottomLayer 78.3214mm    12.5375mm    90       RC0402FR-0747K5L         
+R29        YAGEO                               "RES 47.5K OHM 1% 1/16W 0402"                                            BottomLayer 75.8214mm    14.5375mm    90       RC0402FR-0747K5L         
+R30        YAGEO                               "RES 47.5K OHM 1% 1/16W 0402"                                            BottomLayer 79.3214mm    15.5375mm    90       RC0402FR-0747K5L         
+R31        YAGEO                               "RES 47.5K OHM 1% 1/16W 0402"                                            BottomLayer 78.3171mm    15.5194mm    90       RC0402FR-0747K5L         
+R32        YAGEO                               "RES 47.5K OHM 1% 1/16W 0402"                                            BottomLayer 54.8334mm    3.5289mm     180      RC0402FR-0747K5L         
+R33        YAGEO                               "RES 47.5K OHM 1% 1/16W 0402"                                            BottomLayer 62.8035mm    4.5082mm     0        RC0402FR-0747K5L         
+R34        YAGEO                               "RES 22 OHM 1% 1/16W 0402"                                               BottomLayer 76.8714mm    3.4175mm     0        RC0402FR-0722RL          
+R35        YAGEO                               "RES 22 OHM 1% 1/16W 0402"                                               BottomLayer 76.8214mm    12.0375mm    0        RC0402FR-0722RL          
+R36        YAGEO                               "RES 47.5K OHM 1% 1/16W 0402"                                            BottomLayer 62.8035mm    5.5875mm     180      RC0402FR-0747K5L         
+R37        YAGEO                               "RES 22 OHM 1% 1/16W 0402"                                               BottomLayer 80.8214mm    5.5975mm     180      RC0402FR-0722RL          
+R38        YAGEO                               "RES 22 OHM 1% 1/16W 0402"                                               BottomLayer 80.8214mm    14.0375mm    180      RC0402FR-0722RL          
+R39        YAGEO                               "RES 22 OHM 1% 1/16W 0402"                                               BottomLayer 80.8129mm    4.5556mm     180      RC0402FR-0722RL          
+R40        YAGEO                               "RES 22 OHM 1% 1/16W 0402"                                               BottomLayer 80.8214mm    12.9875mm    180      RC0402FR-0722RL          
+R41        YAGEO                               "RES 47.5K OHM 1% 1/16W 0402"                                            BottomLayer 68.3714mm    3.9207mm     90       RC0402FR-0747K5L         
+R42        YAGEO                               "RES 47.5K OHM 1% 1/16W 0402"                                            BottomLayer 65.8214mm    6.0375mm     90       RC0402FR-0747K5L         
+R43        YAGEO                               "RES 47.5K OHM 1% 1/16W 0402"                                            BottomLayer 69.3714mm    7.0375mm     90       RC0402FR-0747K5L         
+R44        YAGEO                               "RES 47.5K OHM 1% 1/16W 0402"                                            BottomLayer 68.3714mm    7.0375mm     90       RC0402FR-0747K5L         
+R45        YAGEO                               "RES 47.5K OHM 1% 1/16W 0402"                                            BottomLayer 68.3214mm    12.5175mm    90       RC0402FR-0747K5L         
+R46        YAGEO                               "RES 47.5K OHM 1% 1/16W 0402"                                            BottomLayer 65.8214mm    14.5375mm    90       RC0402FR-0747K5L         
+R47        YAGEO                               "RES 47.5K OHM 1% 1/16W 0402"                                            BottomLayer 69.3214mm    15.5375mm    90       RC0402FR-0747K5L         
+R48        YAGEO                               "RES 47.5K OHM 1% 1/16W 0402"                                            BottomLayer 68.3214mm    15.5375mm    90       RC0402FR-0747K5L         
+R49        YAGEO                               "RES 47.5K OHM 1% 1/16W 0402"                                            BottomLayer 102.1594mm   15.9148mm    270      RC0402FR-0747K5L         
+R50        YAGEO                               "RES 22 OHM 1% 1/16W 0402"                                               BottomLayer 66.7937mm    3.4175mm     0        RC0402FR-0722RL          
+R51        YAGEO                               "RES 22 OHM 1% 1/16W 0402"                                               BottomLayer 66.7214mm    11.9175mm    0        RC0402FR-0722RL          
+R52        YAGEO                               "RES 22 OHM 1% 1/16W 0402"                                               BottomLayer 70.8214mm    5.5376mm     180      RC0402FR-0722RL          
+R53        YAGEO                               "RES 22 OHM 1% 1/16W 0402"                                               BottomLayer 70.8214mm    14.0875mm    180      RC0402FR-0722RL          
+R54        YAGEO                               "RES 22 OHM 1% 1/16W 0402"                                               BottomLayer 70.8214mm    4.5082mm     180      RC0402FR-0722RL          
+R55        YAGEO                               "RES 22 OHM 1% 1/16W 0402"                                               BottomLayer 70.8214mm    13.0975mm    180      RC0402FR-0722RL          
+R56        YAGEO                               "RES 47.5K OHM 1% 1/16W 0402"                                            BottomLayer 58.3088mm    3.9738mm     90       RC0402FR-0747K5L         
+R57        YAGEO                               "RES 47.5K OHM 1% 1/16W 0402"                                            BottomLayer 55.8214mm    6.0375mm     90       RC0402FR-0747K5L         
+R58        YAGEO                               "RES 47.5K OHM 1% 1/16W 0402"                                            BottomLayer 59.3214mm    7.0875mm     90       RC0402FR-0747K5L         
+R59        YAGEO                               "RES 47.5K OHM 1% 1/16W 0402"                                            BottomLayer 58.3255mm    7.0875mm     90       RC0402FR-0747K5L         
+R60        YAGEO                               "RES 47.5K OHM 1% 1/16W 0402"                                            BottomLayer 58.3316mm    12.5375mm    90       RC0402FR-0747K5L         
+R61        YAGEO                               "RES 47.5K OHM 1% 1/16W 0402"                                            BottomLayer 55.8214mm    14.5375mm    90       RC0402FR-0747K5L         
+R62        YAGEO                               "RES 47.5K OHM 1% 1/16W 0402"                                            BottomLayer 59.3214mm    15.5375mm    90       RC0402FR-0747K5L         
+R63        YAGEO                               "RES 47.5K OHM 1% 1/16W 0402"                                            BottomLayer 58.3182mm    15.5176mm    90       RC0402FR-0747K5L         
+R64        YAGEO                               "RES 22 OHM 1% 1/16W 0402"                                               BottomLayer 56.8214mm    3.5289mm     0        RC0402FR-0722RL          
+R65        YAGEO                               "RES 22 OHM 1% 1/16W 0402"                                               BottomLayer 56.8036mm    11.9863mm    0        RC0402FR-0722RL          
+R66        YAGEO                               "RES 22 OHM 1% 1/16W 0402"                                               BottomLayer 60.8214mm    5.6075mm     180      RC0402FR-0722RL          
+R67        YAGEO                               "RES 22 OHM 1% 1/16W 0402"                                               BottomLayer 60.9565mm    14.0376mm    180      RC0402FR-0722RL          
+R68        YAGEO                               "RES 22 OHM 1% 1/16W 0402"                                               BottomLayer 60.8214mm    4.4738mm     180      RC0402FR-0722RL          
+R69        YAGEO                               "RES 22 OHM 1% 1/16W 0402"                                               BottomLayer 60.9339mm    12.9675mm    180      RC0402FR-0722RL          
+R70        YAGEO                               "RES 0 OHM JUMPER 1/10W 0603"                                            BottomLayer 179.5254mm   12.6665mm    0        RC0603FR-070RL           
+R71        YAGEO                               "RES 10K OHM 1% 1/16W 0402"                                              TopLayer    175.5035mm   3.9368mm     90       RC0402FR-0710KL          
+R72        YAGEO                               "RES 10K OHM 1% 1/16W 0402"                                              TopLayer    16.5849mm    17.9057mm    0        RC0402FR-0710KL          
+R73        YAGEO                               "RES 10K OHM 1% 1/16W 0402"                                              TopLayer    40.8457mm    4.5302mm     180      RC0402FR-0710KL          
+R74        YAGEO                               "RES 10K OHM 1% 1/16W 0402"                                              BottomLayer 23.9830mm    2.9195mm     0        RC0402FR-0710KL          
+R75        YAGEO                               "RES 0 OHM JUMPER 1/10W 0603"                                            BottomLayer 259.8640mm   1.1082mm     180      RC0603FR-070RL           
+R76        YAGEO                               "RES 0 OHM JUMPER 1/10W 0603"                                            TopLayer    260.4334mm   16.9062mm    90       RC0603FR-070RL           
+R77        YAGEO                               "RES 0 OHM JUMPER 1/10W 0603"                                            BottomLayer 260.6451mm   15.5049mm    90       RC0603FR-070RL           
+R78        YAGEO                               "RES 10K OHM 1% 1/16W 0402"                                              BottomLayer 27.4621mm    16.5152mm    0        RC0402FR-0710KL          
+R79        YAGEO                               "RES 47.5K OHM 1% 1/16W 0402"                                            BottomLayer 99.3344mm    5.5449mm     180      RC0402FR-0747K5L         
+R80        YAGEO                               "RES 47.5K OHM 1% 1/16W 0402"                                            BottomLayer 96.1950mm    3.2649mm     0        RC0402FR-0747K5L         
+R81        YAGEO                               "RES 47.5K OHM 1% 1/16W 0402"                                            BottomLayer 96.1586mm    5.4443mm     0        RC0402FR-0747K5L         
+R82        YAGEO                               "RES 47.5K OHM 1% 1/16W 0402"                                            BottomLayer 99.3344mm    4.5449mm     180      RC0402FR-0747K5L         
+R83        YAGEO                               "RES 47.5K OHM 1% 1/16W 0402"                                            BottomLayer 96.1558mm    6.4231mm     0        RC0402FR-0747K5L         
+R84        YAGEO                               "RES 22 OHM 1% 1/16W 0402"                                               BottomLayer 96.1558mm    7.5124mm     180      RC0402FR-0722RL          
+R85        YAGEO                               "RES 22 OHM 1% 1/16W 0402"                                               BottomLayer 99.3344mm    3.5449mm     0        RC0402FR-0722RL          
+R86        YAGEO                               "RES 22 OHM 1% 1/16W 0402"                                               BottomLayer 99.3214mm    2.5375mm     0        RC0402FR-0722RL          
+R87        YAGEO                               "RES 22 OHM 1% 1/16W 0402"                                               BottomLayer 96.1566mm    4.3599mm     180      RC0402FR-0722RL          
+R88        YAGEO                               "RES 47.5K OHM 1% 1/16W 0402"                                            BottomLayer 100.8633mm   2.0124mm     90       RC0402FR-0747K5L         
+R89        YAGEO                               "RES 10K OHM 1% 1/16W 0402"                                              BottomLayer 53.8828mm    11.9376mm    180      RC0402FR-0710KL          
+R90        YAGEO                               "RES 47.5K OHM 1% 1/16W 0402"                                            TopLayer    159.2365mm   16.3094mm    0        RC0402FR-0747K5L         
+R91        YAGEO                               "RES 47.5K OHM 1% 1/16W 0402"                                            TopLayer    159.6788mm   11.7275mm    180      RC0402FR-0747K5L         
+R92        YAGEO                               "RES 22 OHM 1% 1/16W 0402"                                               TopLayer    157.2724mm   16.3014mm    0        RC0402FR-0722RL          
+R93        YAGEO                               "RES 22 OHM 1% 1/16W 0402"                                               TopLayer    156.1022mm   12.7223mm    0        RC0402FR-0722RL          
+R94        YAGEO                               "RES 22 OHM 1% 1/16W 0402"                                               TopLayer    161.0293mm   11.0827mm    90       RC0402FR-0722RL          
+R95        YAGEO                               "RES 5.1 OHM 1% 1/16W 0402"                                              BottomLayer 114.0919mm   6.5486mm     270      RC0402FR-075R1L          
+R96        YAGEO                               "RES 47.5K OHM 1% 1/16W 0402"                                            BottomLayer 104.8714mm   4.0375mm     180      RC0402FR-0747K5L         
+R97        YAGEO                               "RES 47.5K OHM 1% 1/16W 0402"                                            BottomLayer 104.8714mm   2.9175mm     180      RC0402FR-0747K5L         
+R98        YAGEO                               "RES 47.5K OHM 1% 1/16W 0402"                                            BottomLayer 109.8386mm   2.9175mm     180      RC0402FR-0747K5L         
+R99        YAGEO                               "RES 22 OHM 1% 1/16W 0402"                                               BottomLayer 107.1339mm   4.0375mm     180      RC0402FR-0722RL          
+R100       YAGEO                               "RES 22 OHM 1% 1/16W 0402"                                               BottomLayer 112.3714mm   4.0375mm     0        RC0402FR-0722RL          
+R101       YAGEO                               "RES 22 OHM 1% 1/16W 0402"                                               BottomLayer 107.1339mm   2.9175mm     180      RC0402FR-0722RL          
+R102       YAGEO                               "RES 22 OHM 1% 1/16W 0402"                                               BottomLayer 112.3695mm   2.9079mm     0        RC0402FR-0722RL          
+R103       YAGEO                               "RES 47.5K OHM 1% 1/16W 0402"                                            BottomLayer 109.8214mm   4.0375mm     0        RC0402FR-0747K5L         
+R105       YAGEO                               "RES 47.5K OHM 1% 1/16W 0402"                                            TopLayer    117.6528mm   11.3345mm    270      RC0402FR-0747K5L         
+R106       YAGEO                               "RES 47.5K OHM 1% 1/16W 0402"                                            TopLayer    116.6528mm   11.3345mm    270      RC0402FR-0747K5L         
+R107       YAGEO                               "RES 22 OHM 1% 1/16W 0402"                                               BottomLayer 114.2919mm   15.0561mm    0        RC0402FR-0722RL          
+R108       YAGEO                               "RES 22 OHM 1% 1/16W 0402"                                               BottomLayer 114.3419mm   14.0561mm    0        RC0402FR-0722RL          
+R109       YAGEO                               "RES 22 OHM 1% 1/16W 0402"                                               TopLayer    115.6528mm   11.3345mm    90       RC0402FR-0722RL          
+R110       YAGEO                               "RES 22 OHM 1% 1/16W 0402"                                               TopLayer    118.6528mm   11.3345mm    90       RC0402FR-0722RL          
+R111       YAGEO                               "RES 47.5K OHM 1% 1/16W 0402"                                            BottomLayer 114.3419mm   13.0561mm    0        RC0402FR-0747K5L         
+R112       YAGEO                               "RES 47.5K OHM 1% 1/16W 0402"                                            TopLayer    114.6528mm   11.3345mm    90       RC0402FR-0747K5L         
+R114       YAGEO                               "RES 22 OHM 1% 1/16W 0402"                                               BottomLayer 262.8210mm   12.5233mm    180      RC0402FR-0722RL          
+R115       YAGEO                               "RES 22 OHM 1% 1/16W 0402"                                               BottomLayer 262.8576mm   13.5999mm    0        RC0402FR-0722RL          
+R116       YAGEO                               "RES 0 OHM JUMPER 1/10W 0603"                                            BottomLayer 280.7009mm   17.4045mm    180      RC0603FR-070RL           
+R117       YAGEO                               "RES 22 OHM 1% 1/16W 0402"                                               BottomLayer 262.6704mm   17.2041mm    0        RC0402FR-0722RL          
+R118       YAGEO                               "RES 0 OHM JUMPER 1/10W 0603"                                            BottomLayer 270.1436mm   16.9993mm    0        RC0603FR-070RL           
+R119       YAGEO                               "RES 22 OHM 1% 1/16W 0402"                                               BottomLayer 262.8603mm   6.9381mm     0        RC0402FR-0722RL          
+R120       YAGEO                               "RES 22 OHM 1% 1/16W 0402"                                               BottomLayer 262.8512mm   7.9247mm     0        RC0402FR-0722RL          
+R121       YAGEO                               "RES 0 OHM JUMPER 1/10W 0603"                                            BottomLayer 280.7009mm   12.1298mm    180      RC0603FR-070RL           
+R122       YAGEO                               "RES 22 OHM 1% 1/16W 0402"                                               BottomLayer 262.8223mm   11.5851mm    0        RC0402FR-0722RL          
+R123       YAGEO                               "RES 0 OHM JUMPER 1/10W 0603"                                            BottomLayer 269.8166mm   10.9546mm    0        RC0603FR-070RL           
+R124       YAGEO                               "RES 22 OHM 1% 1/16W 0402"                                               BottomLayer 262.8786mm   1.2012mm     0        RC0402FR-0722RL          
+R125       YAGEO                               "RES 22 OHM 1% 1/16W 0402"                                               BottomLayer 262.8695mm   2.2335mm     0        RC0402FR-0722RL          
+R126       YAGEO                               "RES 0 OHM JUMPER 1/10W 0603"                                            BottomLayer 280.7649mm   5.9819mm     180      RC0603FR-070RL           
+R127       YAGEO                               "RES 22 OHM 1% 1/16W 0402"                                               BottomLayer 262.8512mm   5.7409mm     0        RC0402FR-0722RL          
+R128       YAGEO                               "RES 0 OHM JUMPER 1/10W 0603"                                            BottomLayer 269.8429mm   5.2920mm     0        RC0603FR-070RL           
+R129       "Bourns Inc."                       "RES 0.02 OHM 1% 3W 2512"                                                TopLayer    284.8404mm   16.0062mm    0        CRA2512-FZ-R020ELF       
+R130       YAGEO                               "RES 100K OHM 1% 1/16W 0402"                                             TopLayer    247.8088mm   14.6174mm    0        RC0402FR-07100KL         
+R131       YAGEO                               "RES 100K OHM 1% 1/16W 0402"                                             TopLayer    245.2829mm   16.4733mm    0        RC0402FR-07100KL         
+R132       YAGEO                               "RES 4.22K OHM 1% 1/16W 0402"                                            TopLayer    245.3524mm   15.0445mm    270      RC0402FR-074K22L         
+R133       YAGEO                               "RES 4.22K OHM 1% 1/16W 0402"                                            TopLayer    243.8362mm   17.4832mm    270      RC0402FR-074K22L         
+R134       YAGEO                               "RES 0 OHM JUMPER 1/10W 0603"                                            TopLayer    249.4936mm   15.2804mm    270      RC0603FR-070RL           
+R135       YAGEO                               "RES 0 OHM JUMPER 1/10W 0603"                                            TopLayer    250.9160mm   15.2866mm    270      RC0603FR-070RL           
+R136       YAGEO                               "RES 0 OHM JUMPER 1/10W 0603"                                            BottomLayer 245.4287mm   16.2972mm    0        RC0603FR-070RL           
+R137       YAGEO                               "RES 54.9K OHM 1% 1/16W 0402"                                            TopLayer    239.5803mm   17.4234mm    0        RC0402FR-0754K9L         
+R138       YAGEO                               "RES 274K OHM 1% 1/16W 0402"                                             TopLayer    236.2944mm   16.1337mm    0        RC0402FR-07274KL         
+R139       "Bourns Inc."                       "RES 0.02 OHM 1% 3W 2512"                                                TopLayer    284.8404mm   9.5062mm     0        CRA2512-FZ-R020ELF       
+R140       YAGEO                               "RES 100K OHM 1% 1/16W 0402"                                             TopLayer    247.9897mm   8.6968mm     0        RC0402FR-07100KL         
+R141       YAGEO                               "RES 332K OHM 1% 1/16W 0402"                                             TopLayer    241.4706mm   14.7023mm    270      RC0402FR-07332KL         
+R142       YAGEO                               "RES 4.22K OHM 1% 1/16W 0402"                                            TopLayer    246.2176mm   9.6017mm     0        RC0402FR-074K22L         
+R143       YAGEO                               "RES 0 OHM JUMPER 1/10W 0603"                                            TopLayer    249.7822mm   9.4324mm     270      RC0603FR-070RL           
+R144       YAGEO                               "RES 0 OHM JUMPER 1/10W 0603"                                            TopLayer    251.1297mm   9.4519mm     270      RC0603FR-070RL           
+R145       YAGEO                               "RES 10K OHM 1% 1/16W 0402"                                              TopLayer    241.9978mm   16.2426mm    180      RC0402FR-0710KL          
+R146       YAGEO                               "RES 22 OHM 1% 1/16W 0402"                                               TopLayer    243.5438mm   14.6348mm    90       RC0402FR-0722RL          
+R147       YAGEO                               "RES 0 OHM JUMPER 1/10W 0603"                                            BottomLayer 245.2639mm   9.9934mm     0        RC0603FR-070RL           
+R148       YAGEO                               "RES 332K OHM 1% 1/16W 0402"                                             TopLayer    242.4716mm   7.4130mm     270      RC0402FR-07332KL         
+R149       "Bourns Inc."                       "RES 0.02 OHM 1% 3W 2512"                                                TopLayer    284.8405mm   3.3635mm     0        CRA2512-FZ-R020ELF       
+R150       YAGEO                               "RES 100K OHM 1% 1/16W 0402"                                             TopLayer    247.9181mm   2.8586mm     0        RC0402FR-07100KL         
+R151       YAGEO                               "RES 10K OHM 1% 1/16W 0402"                                              TopLayer    243.0004mm   8.8978mm     180      RC0402FR-0710KL          
+R152       YAGEO                               "RES 22 OHM 1% 1/16W 0402"                                               BottomLayer 244.8592mm   7.4500mm     180      RC0402FR-0722RL          
+R153       YAGEO                               "RES 4.22K OHM 1% 1/16W 0402"                                            TopLayer    246.0465mm   2.8586mm     0        RC0402FR-074K22L         
+R154       YAGEO                               "RES 0 OHM JUMPER 1/10W 0603"                                            TopLayer    249.7286mm   3.5898mm     270      RC0603FR-070RL           
+R155       YAGEO                               "RES 0 OHM JUMPER 1/10W 0603"                                            TopLayer    251.0428mm   3.5694mm     270      RC0603FR-070RL           
+R156       YAGEO                               "RES 332K OHM 1% 1/16W 0402"                                             TopLayer    242.5626mm   2.9730mm     270      RC0402FR-07332KL         
+R157       YAGEO                               "RES 0 OHM JUMPER 1/10W 0603"                                            BottomLayer 245.3001mm   4.3768mm     0        RC0603FR-070RL           
+R158       YAGEO                               "RES 10K OHM 1% 1/16W 0402"                                              TopLayer    243.0914mm   4.5013mm     180      RC0402FR-0710KL          
+R159       YAGEO                               "RES 22 OHM 1% 1/16W 0402"                                               BottomLayer 244.9870mm   1.4577mm     180      RC0402FR-0722RL          
+R160       YAGEO                               "RES 0 OHM JUMPER 1/10W 0603"                                            TopLayer    252.2614mm   1.3640mm     0        RC0603FR-070RL           
+R161       YAGEO                               "RES 510K OHM 1% 1/16W 0402"                                             TopLayer    191.4181mm   16.7145mm    270      RC0402FR-07510KL         
+R162       YAGEO                               "RES 31.6K OHM 1% 1/16W 0402"                                            TopLayer    190.9820mm   18.0858mm    180      RC0402FR-0731K6L         
+R163       YAGEO                               "RES 0 OHM JUMPER 1/10W 0603"                                            BottomLayer 183.4007mm   3.5592mm     180      RC0603FR-070RL           
+R164       YAGEO                               "RES 31.6K OHM 1% 1/16W 0402"                                            TopLayer    190.3065mm   12.1341mm    0        RC0402FR-0731K6L         
+R165       YAGEO                               "RES 110 OHM 1% 1/16W 0402"                                              BottomLayer 184.8850mm   12.1240mm    180      RC0402FR-07110RL         
+R166       ""                                  "DNP res 0603"                                                           TopLayer    179.4012mm   15.8914mm    270      DNP                      
+R167       YAGEO                               "RES 510K OHM 1% 1/16W 0402"                                             TopLayer    181.6461mm   13.9933mm    270      RC0402FR-07510KL         
+R168       YAGEO                               "RES 47.5K OHM 1% 1/16W 0402"                                            TopLayer    175.9535mm   5.2847mm     0        RC0402FR-0747K5L         
+R169       ""                                  "DNP res 0603"                                                           BottomLayer 179.3416mm   17.1895mm    90       DNP                      
+R170       ""                                  "DNP res 0603"                                                           TopLayer    180.5702mm   17.0892mm    270      DNP                      
+R171       YAGEO                               "RES 22 OHM 1% 1/16W 0402"                                               TopLayer    175.9780mm   6.3490mm     180      RC0402FR-0722RL          
+R172       YAGEO                               "RES 22 OHM 1% 1/16W 0402"                                               TopLayer    175.9784mm   7.2820mm     180      RC0402FR-0722RL          
+R173       YAGEO                               "RES 22 OHM 1% 1/16W 0402"                                               TopLayer    175.9812mm   8.2895mm     180      RC0402FR-0722RL          
+R174       YAGEO                               "RES 22 OHM 1% 1/16W 0402"                                               TopLayer    175.9613mm   9.2299mm     180      RC0402FR-0722RL          
+R175       YAGEO                               "RES 0 OHM JUMPER 1/10W 0603"                                            BottomLayer 183.0067mm   8.3795mm     270      RC0603FR-070RL           
+R176       ""                                  "DNP res 0603"                                                           TopLayer    189.8224mm   2.1650mm     0        DNP                      
+R177       YAGEO                               "RES 43K OHM 1% 1/16W 0402"                                              TopLayer    190.1114mm   1.1162mm     180      RC0402FR-0743KL          
+R179       YAGEO                               "RES 43K OHM 1% 1/16W 0402"                                              TopLayer    189.6080mm   4.3540mm     180      RC0402FR-0743KL          
+R180       YAGEO                               "RES 10K OHM 1% 1/16W 0402"                                              TopLayer    181.1484mm   15.3870mm    180      RC0402FR-0710KL          
+R181       ""                                  "DNP res 0603"                                                           TopLayer    189.8297mm   3.3256mm     0        DNP                      
+R182       YAGEO                               "RES 10K OHM 1% 1/16W 0402"                                              BottomLayer 182.8691mm   14.8318mm    90       RC0402FR-0710KL          
+R183       ""                                  "DNP res 0603"                                                           TopLayer    189.8335mm   6.3696mm     0        DNP                      
+R184       YAGEO                               "RES 43K OHM 1% 1/16W 0402"                                              TopLayer    189.6352mm   5.3035mm     180      RC0402FR-0743KL          
+R185       YAGEO                               "RES 43K OHM 1% 1/16W 0402"                                              TopLayer    189.5708mm   8.6564mm     180      RC0402FR-0743KL          
+R186       ""                                  "DNP res 0603"                                                           TopLayer    189.8273mm   7.5905mm     0        DNP                      
+R187       YAGEO                               "RES 0 OHM JUMPER 1/10W 0603"                                            BottomLayer 24.8323mm    16.2744mm    0        RC0603FR-070RL           
+R188       YAGEO                               "RES 47.5K OHM 1% 1/16W 0402"                                            TopLayer    26.1850mm    12.9104mm    0        RC0402FR-0747K5L         
+R189       YAGEO                               "RES 22 OHM 1% 1/16W 0402"                                               TopLayer    26.1851mm    11.9492mm    0        RC0402FR-0722RL          
+R190       YAGEO                               "RES 10K OHM 1% 1/16W 0402"                                              TopLayer    16.5599mm    11.9576mm    0        RC0402FR-0710KL          
+R191       YAGEO                               "RES 22 OHM 1% 1/16W 0402"                                               TopLayer    26.1851mm    10.9492mm    0        RC0402FR-0722RL          
+R192       YAGEO                               "RES 10K OHM 1% 1/16W 0402"                                              TopLayer    16.5599mm    13.9576mm    0        RC0402FR-0710KL          
+R193       YAGEO                               "RES 22 OHM 1% 1/16W 0402"                                               TopLayer    26.1851mm    16.2623mm    0        RC0402FR-0722RL          
+R194       YAGEO                               "RES 22 OHM 1% 1/16W 0402"                                               TopLayer    26.1851mm    15.2623mm    0        RC0402FR-0722RL          
+R195       ""                                  "DNP res 0603"                                                           TopLayer    20.9029mm    10.2411mm    180      DNP                      
+R196       YAGEO                               "RES 110 OHM 1% 1/16W 0402"                                              BottomLayer 19.8877mm    16.8972mm    270      RC0402FR-07110RL         
+R198       YAGEO                               "RES 47.5K OHM 1% 1/16W 0402"                                            BottomLayer 107.6876mm   13.5723mm    0        RC0402FR-0747K5L         
+R199       YAGEO                               "RES 22 OHM 1% 1/16W 0402"                                               BottomLayer 111.8551mm   12.7173mm    0        RC0402FR-0722RL          
+R200       YAGEO                               "RES 22 OHM 1% 1/16W 0402"                                               BottomLayer 111.8698mm   11.6265mm    0        RC0402FR-0722RL          
+R201       YAGEO                               "RES 0 OHM JUMPER 1/10W 0603"                                            TopLayer    172.2519mm   8.3793mm     270      RC0603FR-070RL           
+R202       YAGEO                               "RES 22 OHM 1% 1/16W 0402"                                               BottomLayer 161.0031mm   16.9614mm    180      RC0402FR-0722RL          
+R203       YAGEO                               "RES 22 OHM 1% 1/16W 0402"                                               BottomLayer 160.9990mm   15.9735mm    180      RC0402FR-0722RL          
+R204       YAGEO                               "RES 49.9K OHM 1% 1/16W 0402"                                            BottomLayer 167.5428mm   13.0621mm    90       RC0402FR-0749K9L         
+R205       YAGEO                               "RES 110 OHM 1% 1/16W 0402"                                              BottomLayer 166.5489mm   13.0621mm    90       RC0402FR-07110RL         
+R206       YAGEO                               "RES 100K OHM 1% 1/16W 0402"                                             BottomLayer 164.5994mm   14.7271mm    0        RC0402FR-07100KL         
+R207       YAGEO                               "RES SMD 0 OHM JUMPER 1/16W 0402"                                        TopLayer    116.2949mm   2.9079mm     180      RC0402FR-070RL           
+R208       YAGEO                               "RES 22 OHM 1% 1/16W 0402"                                               TopLayer    256.1415mm   15.8511mm    270      RC0402FR-0722RL          
+R209       YAGEO                               "RES 100K OHM 1% 1/16W 0402"                                             TopLayer    258.9625mm   18.0882mm    180      RC0402FR-07100KL         
+R210       YAGEO                               "RES SMD 0 OHM JUMPER 1/16W 0402"                                        TopLayer    160.8345mm   9.0209mm     90       RC0402FR-070RL           
+R212       YAGEO                               "RES 100K OHM 1% 1/16W 0402"                                             TopLayer    216.7918mm   1.9309mm     270      RC0402FR-07100KL         
+R213       YAGEO                               "RES 100K OHM 1% 1/16W 0402"                                             TopLayer    230.3840mm   9.5414mm     270      RC0402FR-07100KL         
+R214       "Panasonic Electronic Components"   "RES SMD 5.62K OHM 1% 1/10W 0402"                                        TopLayer    215.8247mm   1.8973mm     90       ERJ-2RKF5621X            
+R215       "Panasonic Electronic Components"   "RES SMD 7.15K OHM 1% 1/10W 0402"                                        TopLayer    229.4198mm   9.5414mm     90       ERJ-2RKF7151X            
+R216       YAGEO                               "RES 22 OHM 1% 1/16W 0402"                                               BottomLayer 131.6308mm   5.8375mm     270      RC0402FR-0722RL          
+R218       "KOA Speer Electronics, Inc."       "RES 135K OHM 1% 1/16W 0402"                                             TopLayer    169.2012mm   10.7158mm    180      RN73H1ETTP1353F50        
+R219       YAGEO                               "RES 100K OHM 1% 1/16W 0402"                                             TopLayer    218.4504mm   6.8818mm     180      RC0402FR-07100KL         
+R220       YAGEO                               "RES 30K OHM 1% 1/16W 0402"                                              TopLayer    170.5286mm   9.1916mm     180      RC0402FR-0730KL          
+R221       YAGEO                               "RES 1.91K OHM 1% 1/16W 0402"                                            TopLayer    220.3434mm   6.8565mm     180      RC0402FR-071K91L         
+R222       YAGEO                               "RES 178K OHM 1% 1/16W 0402"                                             TopLayer    158.2244mm   6.5115mm     180      RC0402FR-07178KL         
+R223       YAGEO                               "RES 100K OHM 1% 1/16W 0402"                                             TopLayer    125.9162mm   8.7036mm     90       RC0402FR-07100KL         
+R224       YAGEO                               "RES 56 OHM 1% 1/16W 0402"                                               TopLayer    125.8960mm   6.8523mm     270      RC0402FR-0756RL          
+R225       "Stackpole Electronics Inc"         "RES 39.2K OHM 1% 1/16W 0402"                                            TopLayer    156.7454mm   10.6923mm    0        RMCF0402FT39K2           
+R226       YAGEO                               "RES 64.9K OHM 1% 1/16W 0402"                                            TopLayer    157.3236mm   8.8765mm     270      RC0402FR-0764K9L         
+R227       YAGEO                               "RES 100K OHM 1% 1/16W 0402"                                             TopLayer    125.8894mm   4.0260mm     90       RC0402FR-07100KL         
+R228       YAGEO                               "RES 56 OHM 1% 1/16W 0402"                                               TopLayer    125.8894mm   2.1525mm     270      RC0402FR-0756RL          
+R229       YAGEO                               "RES 0 OHM JUMPER 1/10W 0603"                                            BottomLayer 37.3813mm    7.6502mm     0        RC0603FR-070RL           
+R230       YAGEO                               "RES 47.5K OHM 1% 1/16W 0402"                                            TopLayer    39.0337mm    4.5147mm     0        RC0402FR-0747K5L         
+R231       YAGEO                               "RES 22 OHM 1% 1/16W 0402"                                               TopLayer    39.0306mm    3.5935mm     0        RC0402FR-0722RL          
+R232       YAGEO                               "RES 10K OHM 1% 1/16W 0402"                                              TopLayer    29.1884mm    2.7118mm     0        RC0402FR-0710KL          
+R233       YAGEO                               "RES 22 OHM 1% 1/16W 0402"                                               TopLayer    39.0398mm    2.6931mm     0        RC0402FR-0722RL          
+R234       YAGEO                               "RES 10K OHM 1% 1/16W 0402"                                              TopLayer    29.1884mm    4.6673mm     0        RC0402FR-0710KL          
+R235       YAGEO                               "RES 22 OHM 1% 1/16W 0402"                                               TopLayer    39.0583mm    7.2098mm     0        RC0402FR-0722RL          
+R236       YAGEO                               "RES 22 OHM 1% 1/16W 0402"                                               TopLayer    39.0583mm    6.2098mm     0        RC0402FR-0722RL          
+R237       ""                                  "DNP res 0603"                                                           TopLayer    33.7249mm    1.4006mm     180      DNP                      
+R238       YAGEO                               "RES 110 OHM 1% 1/16W 0402"                                              BottomLayer 32.3805mm    8.1798mm     270      RC0402FR-07110RL         
+R239       YAGEO                               "RES 0 OHM JUMPER 1/10W 0603"                                            BottomLayer 259.9011mm   2.2853mm     180      RC0603FR-070RL           
+R240       YAGEO                               "RES 0 OHM JUMPER 1/10W 0603"                                            BottomLayer 125.6905mm   10.1490mm    180      RC0603FR-070RL           
+R241       YAGEO                               "RES 22 OHM 1% 1/16W 0402"                                               BottomLayer 128.2490mm   2.0163mm     90       RC0402FR-0722RL          
+R242       YAGEO                               "RES 0 OHM JUMPER 1/10W 0603"                                            TopLayer    234.8741mm   11.2855mm    180      RC0603FR-070RL           
+R244       YAGEO                               "RES 0 OHM JUMPER 1/10W 0603"                                            BottomLayer 24.9202mm    7.6575mm     0        RC0603FR-070RL           
+R245       YAGEO                               "RES 47.5K OHM 1% 1/16W 0402"                                            TopLayer    26.1958mm    3.6377mm     0        RC0402FR-0747K5L         
+R246       YAGEO                               "RES 22 OHM 1% 1/16W 0402"                                               TopLayer    26.2018mm    4.5882mm     0        RC0402FR-0722RL          
+R247       YAGEO                               "RES 10K OHM 1% 1/16W 0402"                                              TopLayer    16.5582mm    2.5333mm     0        RC0402FR-0710KL          
+R248       YAGEO                               "RES 22 OHM 1% 1/16W 0402"                                               TopLayer    26.1958mm    2.6693mm     0        RC0402FR-0722RL          
+R249       YAGEO                               "RES 10K OHM 1% 1/16W 0402"                                              TopLayer    16.5582mm    3.5333mm     0        RC0402FR-0710KL          
+R250       YAGEO                               "RES 22 OHM 1% 1/16W 0402"                                               TopLayer    26.1851mm    7.6162mm     0        RC0402FR-0722RL          
+R251       YAGEO                               "RES 22 OHM 1% 1/16W 0402"                                               TopLayer    26.1851mm    6.6162mm     0        RC0402FR-0722RL          
+R252       ""                                  "DNP res 0603"                                                           TopLayer    21.1896mm    1.3833mm     180      DNP                      
+R253       YAGEO                               "RES 110 OHM 1% 1/16W 0402"                                              BottomLayer 19.8197mm    7.9298mm     270      RC0402FR-07110RL         
+R254       YAGEO                               "RES 0 OHM JUMPER 1/10W 0603"                                            BottomLayer 37.7165mm    16.6384mm    0        RC0603FR-070RL           
+R255       YAGEO                               "RES 47.5K OHM 1% 1/16W 0402"                                            TopLayer    38.9157mm    12.0958mm    0        RC0402FR-0747K5L         
+R256       YAGEO                               "RES 22 OHM 1% 1/16W 0402"                                               TopLayer    38.9208mm    13.0861mm    0        RC0402FR-0722RL          
+R257       YAGEO                               "RES 10K OHM 1% 1/16W 0402"                                              TopLayer    29.1528mm    11.4275mm    0        RC0402FR-0710KL          
+R258       YAGEO                               "RES 22 OHM 1% 1/16W 0402"                                               TopLayer    38.9377mm    11.0934mm    0        RC0402FR-0722RL          
+R259       YAGEO                               "RES 10K OHM 1% 1/16W 0402"                                              TopLayer    29.1398mm    13.3280mm    0        RC0402FR-0710KL          
+R260       YAGEO                               "RES 22 OHM 1% 1/16W 0402"                                               TopLayer    38.9208mm    16.5706mm    0        RC0402FR-0722RL          
+R261       YAGEO                               "RES 22 OHM 1% 1/16W 0402"                                               TopLayer    38.9208mm    15.5706mm    0        RC0402FR-0722RL          
+R262       ""                                  "DNP res 0603"                                                           TopLayer    33.6399mm    10.2411mm    180      DNP                      
+R263       YAGEO                               "RES 110 OHM 1% 1/16W 0402"                                              BottomLayer 32.3810mm    16.8439mm    270      RC0402FR-07110RL         
+R264       YAGEO                               "RES 0 OHM JUMPER 1/10W 0603"                                            BottomLayer 50.6304mm    16.5152mm    0        RC0603FR-070RL           
+R265       YAGEO                               "RES 47.5K OHM 1% 1/16W 0402"                                            TopLayer    52.2311mm    11.9264mm    0        RC0402FR-0747K5L         
+R266       YAGEO                               "RES 22 OHM 1% 1/16W 0402"                                               TopLayer    52.2213mm    12.9788mm    0        RC0402FR-0722RL          
+R267       YAGEO                               "RES 10K OHM 1% 1/16W 0402"                                              TopLayer    42.2179mm    11.4488mm    0        RC0402FR-0710KL          
+R268       YAGEO                               "RES 22 OHM 1% 1/16W 0402"                                               TopLayer    52.2582mm    10.9120mm    0        RC0402FR-0722RL          
+R269       YAGEO                               "RES 10K OHM 1% 1/16W 0402"                                              TopLayer    42.2179mm    12.4686mm    0        RC0402FR-0710KL          
+R270       YAGEO                               "RES 22 OHM 1% 1/16W 0402"                                               TopLayer    52.2231mm    15.5876mm    0        RC0402FR-0722RL          
+R271       YAGEO                               "RES 22 OHM 1% 1/16W 0402"                                               TopLayer    52.2392mm    14.6516mm    0        RC0402FR-0722RL          
+R272       ""                                  "DNP res 0603"                                                           TopLayer    47.1305mm    10.1246mm    180      DNP                      
+R273       YAGEO                               "RES 110 OHM 1% 1/16W 0402"                                              BottomLayer 45.5587mm    17.0409mm    270      RC0402FR-07110RL         
+R275       YAGEO                               "RES 22 OHM 1% 1/16W 0402"                                               BottomLayer 128.4463mm   5.4917mm     0        RC0402FR-0722RL          
+R277       YAGEO                               "RES 22 OHM 1% 1/16W 0402"                                               BottomLayer 129.2068mm   2.0270mm     90       RC0402FR-0722RL          
+R286       YAGEO                               "RES 0 OHM JUMPER 1/10W 0603"                                            BottomLayer 260.7108mm   10.7222mm    270      RC0603FR-070RL           
+R287       YAGEO                               "RES 0 OHM JUMPER 1/10W 0603"                                            BottomLayer 260.7864mm   4.1500mm     270      RC0603FR-070RL           
+R288       YAGEO                               "RES 0 OHM JUMPER 1/10W 0603"                                            TopLayer    218.7968mm   16.8319mm    270      RC0603FR-070RL           
+R290       YAGEO                               "RES 0 OHM JUMPER 1/10W 0603"                                            BottomLayer 190.0633mm   12.9673mm    0        RC0603FR-070RL           
+R291       YAGEO                               "RES 110 OHM 1% 1/16W 0402"                                              TopLayer    121.7144mm   12.5802mm    270      RC0402FR-07110RL         
+R292       YAGEO                               "RES 22 OHM 1% 1/16W 0402"                                               BottomLayer 146.9494mm   3.4055mm     180      RC0402FR-0722RL          
+R293       YAGEO                               "RES 22 OHM 1% 1/16W 0402"                                               BottomLayer 149.0197mm   2.8726mm     180      RC0402FR-0722RL          
+R294       YAGEO                               "RES 22 OHM 1% 1/16W 0402"                                               BottomLayer 149.0285mm   1.7735mm     180      RC0402FR-0722RL          
+U1         "Texas Instruments"                 "IC MCU 32BIT 1MB FLASH 100HTQFP"                                        TopLayer    137.0110mm   9.5370mm     0        TMS320F28377SPZPQ        
+U2         "Micron Technology Inc."            "IC FLASH 1GBIT SPI 24TPBGA"                                             TopLayer    88.8214mm    5.0379mm     90       MT25QL01GBBB8E12-0AUT    
+U3         "Micron Technology Inc."            "IC FLASH 1GBIT SPI 24TPBGA"                                             TopLayer    88.8214mm    13.5375mm    90       MT25QL01GBBB8E12-0AUT    
+U4         "Micron Technology Inc."            "IC FLASH 1GBIT SPI 24TPBGA"                                             TopLayer    78.8214mm    5.0375mm     90       MT25QL01GBBB8E12-0AUT    
+U5         "Micron Technology Inc."            "IC FLASH 1GBIT SPI 24TPBGA"                                             TopLayer    78.8214mm    13.5375mm    90       MT25QL01GBBB8E12-0AUT    
+U6         "Texas Instruments"                 "IC DECODER/DEMUX 1X3:8 16-TSSOP"                                        TopLayer    98.1714mm    14.3125mm    180      SN74LVC138AMPWTEP        
+U7         "Micron Technology Inc."            "IC FLASH 1GBIT SPI 24TPBGA"                                             TopLayer    68.8214mm    5.0375mm     90       MT25QL01GBBB8E12-0AUT    
+U8         "Micron Technology Inc."            "IC FLASH 1GBIT SPI 24TPBGA"                                             TopLayer    68.8214mm    13.5375mm    90       MT25QL01GBBB8E12-0AUT    
+U9         "Micron Technology Inc."            "IC FLASH 1GBIT SPI 24TPBGA"                                             TopLayer    58.8214mm    5.0375mm     90       MT25QL01GBBB8E12-0AUT    
+U10        "Micron Technology Inc."            "IC FLASH 1GBIT SPI 24TPBGA"                                             TopLayer    58.8214mm    13.5375mm    90       MT25QL01GBBB8E12-0AUT    
+U11        "Microchip Technology"              "IC EEPROM 256KBIT SPI 5MHZ 8SOIC"                                       TopLayer    97.8714mm    4.5375mm     0        25LC256-H/SN             
+U12        "Texas Instruments"                 "AUTOMOTIVE 0.8C SPI TEMPERATURE"                                        TopLayer    159.2677mm   14.0333mm    0        TMP127EDBVRQ1            
+U13        "Murata Electronics"                "ACCELEROMETER 6G SPI 12SMD"                                             TopLayer    108.5150mm   5.5032mm     0        SCA3100-D07-1            
+U14        "Analog Devices Inc."               "Accelerometer X, Y, Z Axis ±15g, 30g, 60g 50Hz ~ 8kHz 14-LGA (2.9x2.8)" TopLayer    116.6530mm   14.2845mm    0        ADXL382-2BCCZ-RL7        
+U15        "Allegro MicroSystems"              "IC GATE DRVR HALF-BRIDGE 10DFN"                                         BottomLayer 266.2273mm   14.7741mm    180      A89500KEJSR              
+U16        "Allegro MicroSystems"              "IC GATE DRVR HALF-BRIDGE 10DFN"                                         BottomLayer 266.2273mm   9.1018mm     180      A89500KEJSR              
+U17        "Texas Instruments"                 "IC GATE NOR 1CH 2-INP SC70-5"                                           BottomLayer 259.9292mm   7.6954mm     270      SN74LVC1G02DCKR          
+U18        "Allegro MicroSystems"              "IC GATE DRVR HALF-BRIDGE 10DFN"                                         BottomLayer 266.2273mm   3.6659mm     180      A89500KEJSR              
+U19        "Texas Instruments"                 "IC CURRENT SENSE 1 CIRCUIT 8SOIC"                                       BottomLayer 250.4264mm   15.3015mm    180      INA240A1EDRQ1            
+U20        "Texas Instruments"                 "IC VREF SERIES 0.15% SOT23-3"                                           BottomLayer 240.2706mm   16.2330mm    270      REF3333AIDBZR            
+U21        "Texas Instruments"                 "IC COMPARATOR 1 GEN PUR SOT23-5"                                        TopLayer    239.1438mm   15.2530mm    180      TLV3201AIDBVR            
+U22        "Texas Instruments"                 "IC CURRENT SENSE 1 CIRCUIT 8SOIC"                                       BottomLayer 250.4394mm   9.4375mm     180      INA240A1EDRQ1            
+U23        "Texas Instruments"                 "IC COMPARATOR 1 GEN PUR SOT23-5"                                        TopLayer    240.1447mm   7.9191mm     180      TLV3201AIDBVR            
+U24        "Texas Instruments"                 "IC GATE OR 1CH 3-INP SC70-6"                                            TopLayer    240.7929mm   11.2389mm    0        SN74LVC1G332DCKR         
+U25        "Texas Instruments"                 "IC CURRENT SENSE 1 CIRCUIT 8SOIC"                                       BottomLayer 250.3964mm   3.4290mm     180      INA240A1EDRQ1            
+U26        "Texas Instruments"                 "IC COMPARATOR 1 GEN PUR SOT23-5"                                        TopLayer    240.2357mm   3.5894mm     180      TLV3201AIDBVR            
+U27        "Texas Instruments"                 "IC OPAMP GP 2 CIRCUIT 14HTSSOP"                                         TopLayer    186.1738mm   15.5200mm    0        ALM2403QPWPRQ1           
+U28        "Texas Instruments"                 "IC SGNL CONDITIONER LVDT 48HTQFP"                                       TopLayer    182.4320mm   6.4197mm     180      PGA970QPHPR              
+U29        "Texas Instruments"                 "IC PROG SENSOR SGNL COND 36VQFN"                                        TopLayer    21.2946mm    14.4489mm    270      PGA900ARHHR              
+U30        "NXP USA Inc."                      "IC RTC CLK/CALENDAR I2C 8TSSOP"                                         TopLayer    108.1876mm   13.0340mm    0        PCA8565TS/1,118          
+U31        "Texas Instruments"                 "SIMPLE SWITCHER SYNCHRONOUS BUCK"                                       TopLayer    213.1016mm   3.6238mm     180      LMR51635XDDCR            
+U32        "Texas Instruments"                 "SIMPLE SWITCHER SYNCHRONOUS BUCK"                                       TopLayer    227.1653mm   9.4872mm     270      LMR51635XDDCR            
+U33        "Texas Instruments"                 "SIMPLE SWITCHER SYNCHRONOUS BUCK"                                       TopLayer    218.0479mm   9.2137mm     180      LMR51635XDDCR            
+U34        "Texas Instruments"                 "IC REG BUCK ADJ 4A SOT563"                                              TopLayer    168.1517mm   8.9079mm     0        TPS564247DRLR            
+U35        "Texas Instruments"                 "CMOS Amplifier 1 Circuit Rail-to-Rail SOT-23-6"                         TopLayer    123.1823mm   7.8083mm     0        OPA320SAIDBVR            
+U36        ""                                  "IC VREF SERIES SOT23-6"                                                 TopLayer    117.1587mm   5.4090mm     0        REF35300QDBVRQ1          
+U37        "Texas Instruments"                 "IC REG BUCK ADJ 1.2A 8WSON"                                             TopLayer    159.0845mm   8.4709mm     270      TPS62080ADSGR            
+U38        "Texas Instruments"                 "CMOS Amplifier 1 Circuit Rail-to-Rail SOT-23-6"                         TopLayer    123.0958mm   3.0842mm     0        OPA320SAIDBVR            
+U39        "Texas Instruments"                 "IC PROG SENSOR SGNL COND 36VQFN"                                        TopLayer    33.8621mm    5.5375mm     270      PGA900ARHHR              
+U40        "Texas Instruments"                 "IC PROG SENSOR SGNL COND 36VQFN"                                        TopLayer    21.3214mm    5.5375mm     270      PGA900ARHHR              
+U41        "Texas Instruments"                 "IC PROG SENSOR SGNL COND 36VQFN"                                        TopLayer    33.8621mm    14.4489mm    270      PGA900ARHHR              
+U42        "Texas Instruments"                 "IC PROG SENSOR SGNL COND 36VQFN"                                        TopLayer    47.1305mm    14.5149mm    270      PGA900ARHHR              
+Y1         "NDK (NIHON DEMPA KOGYO CO., LTD)"  "CRYSTAL 20.0000MHZ 8PF SMD"                                             TopLayer    150.6366mm   13.5874mm    90       STDCSU2-20M              
+Y2         "Abracon LLC"                       "CRYSTAL 32.7680KHZ 9PF SMD"                                             TopLayer    104.0701mm   15.0048mm    270      ABS07AIG-32.768KHZ-9-1-T 

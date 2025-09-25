@@ -1,0 +1,16 @@
+Record=TopLevelDocument|FileName=Accelerometers.SchDoc|SheetNumber=8
+Record=NoMainPathDocument|SourceDocument=Accelerometers.SchDoc|FileName=Block_Diagram.SchDoc|SheetNumber=2
+Record=NoMainPathDocument|SourceDocument=Accelerometers.SchDoc|FileName=Calendar.SchDoc|SheetNumber=13
+Record=NoMainPathDocument|SourceDocument=Accelerometers.SchDoc|FileName=Connections.SchDoc|SheetNumber=16
+Record=NoMainPathDocument|SourceDocument=Accelerometers.SchDoc|FileName=EEPROM_memory.SchDoc|SheetNumber=6
+Record=NoMainPathDocument|SourceDocument=Accelerometers.SchDoc|FileName=Flash_memory.SchDoc|SheetNumber=5
+Record=NoMainPathDocument|SourceDocument=Accelerometers.SchDoc|FileName=H-bridge.SchDoc|SheetNumber=9
+Record=NoMainPathDocument|SourceDocument=Accelerometers.SchDoc|FileName=MCU.SchDoc|SheetNumber=3
+Record=NoMainPathDocument|SourceDocument=Accelerometers.SchDoc|FileName=MCU_debug.SchDoc|SheetNumber=4
+Record=NoMainPathDocument|SourceDocument=Accelerometers.SchDoc|FileName=Phase Current_Voltage Sense.SchDoc|SheetNumber=10
+Record=NoMainPathDocument|SourceDocument=Accelerometers.SchDoc|FileName=Power_management.SchDoc|SheetNumber=15
+Record=NoMainPathDocument|SourceDocument=Accelerometers.SchDoc|FileName=Pressure_sensor_AFE.SchDoc|SheetNumber=12
+Record=NoMainPathDocument|SourceDocument=Accelerometers.SchDoc|FileName=Resolver.SchDoc|SheetNumber=11
+Record=NoMainPathDocument|SourceDocument=Accelerometers.SchDoc|FileName=Temp_sensor.SchDoc|SheetNumber=7
+Record=NoMainPathDocument|SourceDocument=Accelerometers.SchDoc|FileName=Title.SchDoc|SheetNumber=1
+Record=NoMainPathDocument|SourceDocument=Accelerometers.SchDoc|FileName=USB_interface.SchDoc|SheetNumber=14
